@@ -1,0 +1,17 @@
+[
+    {
+        "title": "My Project", 
+        "slug": "project-1", 
+        "url": "https://example.com", 
+        "image": "./images/project1.jpg",
+        "description": "Project 1 completed"
+         
+    }, 
+    {
+        "title": "My Project", 
+        "slug": "project-2", 
+        "url": "https://example.com", 
+        "image": "./images/project2.jpg",
+        "description": "Project 2 completed"
+    }
+]
