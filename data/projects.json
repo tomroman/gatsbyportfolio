@@ -3,7 +3,7 @@
         "title": "My Project", 
         "slug": "project-1", 
         "url": "https://example.com", 
-        "image": "./images/project1.jpg",
+        "image": "./images/project1.jpeg",
         "description": "Project 1 completed"
          
     }, 
