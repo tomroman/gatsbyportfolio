@@ -8,10 +8,15 @@
          
     }, 
     {
-        "title": "My Project", 
+        "title": "Pong", 
         "slug": "project-2", 
-        "url": "https://example.com", 
-        "image": "./images/project2.jpg",
-        "description": "Project 2 completed"
+        "url": "https://tomroman.github.io/Pong/", 
+        "image": "./images/project2.png",
+        "description": "Pong game created in Javascript"
     }
+
+
+
+
+
 ]
