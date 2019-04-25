@@ -1,15 +1,8 @@
 [
-    {
-        "title": "My Project", 
-        "slug": "project-1", 
-        "url": "https://example.com", 
-        "image": "./images/project1.jpeg",
-        "description": "Project 1 completed"
-         
-    }, 
+
     {
         "title": "Pong", 
-        "slug": "project-2", 
+        "slug": "project-1", 
         "url": "https://tomroman.github.io/Pong/", 
         "image": "./images/project2.png",
         "description": "Pong game created in Javascript"

@@ -35,11 +35,6 @@
         "path": "/project-1/"
     },
     {
-        "componentChunkName": "component---src-templates-project-js",
-        "jsonName": "project-2-11e",
-        "path": "/project-2/"
-    },
-    {
         "componentChunkName": "component---src-pages-projects-js",
         "jsonName": "projects-9e9",
         "path": "/projects/"
