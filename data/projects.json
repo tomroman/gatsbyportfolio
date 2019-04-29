@@ -6,6 +6,15 @@
         "url": "https://tomroman.github.io/Pong/", 
         "image": "./images/project2.png",
         "description": "Pong game created in Javascript"
+    },
+
+    {
+        "title": "Unearth", 
+        "slug": "project-2", 
+        "url": "https://unearth.business/", 
+        "image": "./images/project3.png",
+        "description": "Discover Hiking Trails, Restaraunts, Hotels, and Transit Near Any Location in the United States"
+
     }
 
 
