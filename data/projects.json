@@ -15,39 +15,7 @@
         "image": "./images/project3.png",
         "description": "Discover Hiking Trails, Restaraunts, Hotels, and Transit Near Any Location in the United States"
 
-    }, 
-
-    {
-        "title": "project 3", 
-        "slug": "project-3", 
-        "url": "https://tomroman.github.io", 
-        "image": "./images/project1.jpeg",
-        "description":"Dummy Project Description"
-    },
-
-    {
-        "title": "project 4", 
-        "slug": "project-4", 
-        "url": "https://tomroman.github.io", 
-        "image": "./images/project1.jpeg",
-        "description":"Dummy Project Description"
-    },
-
-    {
-        "title": "project 5", 
-        "slug": "project-5", 
-        "url": "https://tomroman.github.io", 
-        "image": "./images/project1.jpeg",
-        "description":"Dummy Project Description"
-    },
-    {
-        "title": "project 6", 
-        "slug": "project-6", 
-        "url": "https://tomroman.github.io", 
-        "image": "./images/project1.jpeg",
-        "description":"Dummy Project Description"
     }
-
 
 
 
