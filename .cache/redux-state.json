@@ -1125,12 +1125,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-01T03:54:19.246Z",
+      "buildTime": "2019-05-12T04:19:52.544Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "1f7d2890b3a41525ba95e81ecd985c9f",
+        "contentDigest": "0b2dde7211bba282cff8358374b36f87",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1140,7 +1140,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "eccd3d8a0ce6f62e419b438fbd4dd28e",
+        "contentDigest": "0e60bb618a16b80016a5089f936dc1d5",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1152,7 +1152,7 @@
       "size": 136,
       "prettySize": "136 B",
       "modifiedTime": "2019-04-08T18:35:46.000Z",
-      "accessTime": "2019-05-01T03:54:41.000Z",
+      "accessTime": "2019-05-12T04:20:12.000Z",
       "changeTime": "2019-04-09T21:37:48.000Z",
       "birthTime": "2019-04-08T18:35:46.000Z",
       "root": "/",
@@ -1170,11 +1170,11 @@
       "blksize": 4096,
       "ino": 5944334,
       "blocks": 0,
-      "atimeMs": 1556682881000,
+      "atimeMs": 1557634812000,
       "mtimeMs": 1554748546000,
       "ctimeMs": 1554845868000,
       "birthtimeMs": 1554748546000,
-      "atime": "2019-05-01T03:54:41.000Z",
+      "atime": "2019-05-12T04:20:12.000Z",
       "mtime": "2019-04-08T18:35:46.000Z",
       "ctime": "2019-04-09T21:37:48.000Z",
       "birthtime": "2019-04-08T18:35:46.000Z"
@@ -1298,7 +1298,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "3d08931a39205de9fe87f08e48e6303e",
+        "contentDigest": "7c28af46a2472e781324a13237e53268",
         "type": "Directory",
         "description": "Directory \"data\"",
         "owner": "gatsby-source-filesystem"
@@ -1310,7 +1310,7 @@
       "size": 170,
       "prettySize": "170 B",
       "modifiedTime": "2019-04-09T21:22:35.000Z",
-      "accessTime": "2019-05-01T03:54:41.000Z",
+      "accessTime": "2019-05-12T04:20:12.000Z",
       "changeTime": "2019-04-09T21:33:26.000Z",
       "birthTime": "2019-04-08T18:49:09.000Z",
       "root": "/",
@@ -1328,11 +1328,11 @@
       "blksize": 4096,
       "ino": 5905418,
       "blocks": 0,
-      "atimeMs": 1556682881000,
+      "atimeMs": 1557634812000,
       "mtimeMs": 1554844955000,
       "ctimeMs": 1554845606000,
       "birthtimeMs": 1554749349000,
-      "atime": "2019-05-01T03:54:41.000Z",
+      "atime": "2019-05-12T04:20:12.000Z",
       "mtime": "2019-04-09T21:22:35.000Z",
       "ctime": "2019-04-09T21:33:26.000Z",
       "birthtime": "2019-04-08T18:49:09.000Z"
@@ -1342,7 +1342,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b3e893984b996b3f29a2e8440c8c8202",
+        "contentDigest": "1d2bbebe80d8bf192908b6270dabfadc",
         "type": "Directory",
         "description": "Directory \"data/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1354,7 +1354,7 @@
       "size": 170,
       "prettySize": "170 B",
       "modifiedTime": "2019-04-29T04:04:22.000Z",
-      "accessTime": "2019-05-01T03:54:41.000Z",
+      "accessTime": "2019-05-12T04:20:12.000Z",
       "changeTime": "2019-04-29T04:04:22.000Z",
       "birthTime": "2019-04-08T18:49:23.000Z",
       "root": "/",
@@ -1372,11 +1372,11 @@
       "blksize": 4096,
       "ino": 5905436,
       "blocks": 0,
-      "atimeMs": 1556682881000,
+      "atimeMs": 1557634812000,
       "mtimeMs": 1556510662000,
       "ctimeMs": 1556510662000,
       "birthtimeMs": 1554749363000,
-      "atime": "2019-05-01T03:54:41.000Z",
+      "atime": "2019-05-12T04:20:12.000Z",
       "mtime": "2019-04-29T04:04:22.000Z",
       "ctime": "2019-04-29T04:04:22.000Z",
       "birthtime": "2019-04-08T18:49:23.000Z"
@@ -1385,15 +1385,11 @@
       "id": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
       "children": [
         "ccd13fd8-b57a-5361-b5b4-21263b304b48",
-        "e9bafc7a-534c-5360-a2b6-cccb39789a73",
-        "b7049a00-1ded-5373-a247-bf26272d48bd",
-        "9bc16402-fc5c-5bb1-b24a-bc515863c06b",
-        "cae3758e-7c70-582c-b5bc-e5df11805dba",
-        "1299cfb0-03bb-5aa6-8f8a-4bbaed8ab2ed"
+        "e9bafc7a-534c-5360-a2b6-cccb39789a73"
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "ac4ac9b6d11c535f6f9d7481984d433b",
+        "contentDigest": "6eec4c0f99ca0f993778f06b9ddf5be3",
         "type": "File",
         "mediaType": "application/json",
         "description": "File \"data/projects.json\"",
@@ -1403,11 +1399,11 @@
       "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/data/projects.json",
       "relativePath": "projects.json",
       "extension": "json",
-      "size": 1365,
-      "prettySize": "1.36 kB",
-      "modifiedTime": "2019-04-30T04:38:47.000Z",
-      "accessTime": "2019-04-30T04:38:47.000Z",
-      "changeTime": "2019-04-30T04:38:47.000Z",
+      "size": 508,
+      "prettySize": "508 B",
+      "modifiedTime": "2019-05-03T04:53:04.000Z",
+      "accessTime": "2019-05-03T04:53:04.000Z",
+      "changeTime": "2019-05-03T04:53:04.000Z",
       "birthTime": "2019-04-08T18:49:37.000Z",
       "root": "/",
       "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/data",
@@ -1424,13 +1420,13 @@
       "blksize": 4096,
       "ino": 5905439,
       "blocks": 8,
-      "atimeMs": 1556599127000,
-      "mtimeMs": 1556599127000,
-      "ctimeMs": 1556599127000,
+      "atimeMs": 1556859184000,
+      "mtimeMs": 1556859184000,
+      "ctimeMs": 1556859184000,
       "birthtimeMs": 1554749377000,
-      "atime": "2019-04-30T04:38:47.000Z",
-      "mtime": "2019-04-30T04:38:47.000Z",
-      "ctime": "2019-04-30T04:38:47.000Z",
+      "atime": "2019-05-03T04:53:04.000Z",
+      "mtime": "2019-05-03T04:53:04.000Z",
+      "ctime": "2019-05-03T04:53:04.000Z",
       "birthtime": "2019-04-08T18:49:37.000Z"
     },
     "a12f579a-d0eb-5146-8540-3783ad0db976": {
@@ -1634,66 +1630,6 @@
         "owner": "gatsby-transformer-json"
       }
     },
-    "b7049a00-1ded-5373-a247-bf26272d48bd": {
-      "title": "project 3",
-      "slug": "project-3",
-      "url": "https://tomroman.github.io",
-      "image": "./images/project1.jpeg",
-      "description": "Dummy Project Description",
-      "id": "b7049a00-1ded-5373-a247-bf26272d48bd",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "2e01cf57a0a98f688f7a2656e96531ee",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
-    },
-    "9bc16402-fc5c-5bb1-b24a-bc515863c06b": {
-      "title": "project 4",
-      "slug": "project-4",
-      "url": "https://tomroman.github.io",
-      "image": "./images/project1.jpeg",
-      "description": "Dummy Project Description",
-      "id": "9bc16402-fc5c-5bb1-b24a-bc515863c06b",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "98fd0a0b17c9bff5ad5328f97069c100",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
-    },
-    "cae3758e-7c70-582c-b5bc-e5df11805dba": {
-      "title": "project 5",
-      "slug": "project-5",
-      "url": "https://tomroman.github.io",
-      "image": "./images/project1.jpeg",
-      "description": "Dummy Project Description",
-      "id": "cae3758e-7c70-582c-b5bc-e5df11805dba",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "ffb48838640ac4ff7a82959144b27fad",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
-    },
-    "1299cfb0-03bb-5aa6-8f8a-4bbaed8ab2ed": {
-      "title": "project 6",
-      "slug": "project-6",
-      "url": "https://tomroman.github.io",
-      "image": "./images/project1.jpeg",
-      "description": "Dummy Project Description",
-      "id": "1299cfb0-03bb-5aa6-8f8a-4bbaed8ab2ed",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "8acd449027f76f56ebbe83b3548288e9",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
-    },
     "SitePage /project-1/": {
       "jsonName": "project-1-396",
       "internalComponentName": "ComponentProject1",
@@ -1736,98 +1672,6 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "03d55c241d9286173c4a1343f7647b66",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /project-3/": {
-      "jsonName": "project-3-659",
-      "internalComponentName": "ComponentProject3",
-      "path": "/project-3/",
-      "component": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
-      "componentChunkName": "component---src-templates-project-js",
-      "isCreatedByStatefulCreatePages": false,
-      "context": {
-        "slug": "project-3"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
-      "id": "SitePage /project-3/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b5075b1da8feee590e613bcb04cfe3e4",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /project-4/": {
-      "jsonName": "project-4-348",
-      "internalComponentName": "ComponentProject4",
-      "path": "/project-4/",
-      "component": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
-      "componentChunkName": "component---src-templates-project-js",
-      "isCreatedByStatefulCreatePages": false,
-      "context": {
-        "slug": "project-4"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
-      "id": "SitePage /project-4/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "efd6e30e784995e61b8472a623c6bd67",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /project-5/": {
-      "jsonName": "project-5-d16",
-      "internalComponentName": "ComponentProject5",
-      "path": "/project-5/",
-      "component": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
-      "componentChunkName": "component---src-templates-project-js",
-      "isCreatedByStatefulCreatePages": false,
-      "context": {
-        "slug": "project-5"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
-      "id": "SitePage /project-5/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "13f8c0e5b4ec6f248ed455298657662a",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /project-6/": {
-      "jsonName": "project-6-c7e",
-      "internalComponentName": "ComponentProject6",
-      "path": "/project-6/",
-      "component": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
-      "componentChunkName": "component---src-templates-project-js",
-      "isCreatedByStatefulCreatePages": false,
-      "context": {
-        "slug": "project-6"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
-      "id": "SitePage /project-6/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9f27dfcf6c53314e1a19910e37ec2729",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -1980,8 +1824,7 @@
         "/project-3/",
         "/project-4/",
         "/project-5/",
-        "/project-6/",
-        "sq--src-pages-index-js"
+        "/project-6/"
       ],
       "f82d6b5f-10c9-5126-8bae-c2e5bddc3e66": [
         "/"
@@ -1991,8 +1834,7 @@
         "/project-3/",
         "/project-4/",
         "/project-5/",
-        "/project-6/",
-        "sq--src-pages-index-js"
+        "/project-6/"
       ],
       "f0ccf0f5-eae4-5d14-970b-1565c1d2e2de": [
         "/"
@@ -2052,7 +1894,7 @@
     "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "sq--src-pages-index-js": 1381110386,
     "sq--src-components-image-js": 2011440971,
-    "index": "162/path---index-6a9-vm7WosdmAl0yTseXVlLaoeKSY90",
+    "index": "207/path---index-6a9-hhI2RCZfaqwDLyF3mmClTQIq4",
     "project-1-396": "172/path---project-1-396-2e2-jmpfGPVWRYccwHIB1Et3at5A",
     "project-2-11e": "257/path---project-2-11-e-3b7-cwWso0XeMmCHgrRn5buxeLVUoY",
     "about-f34": "708/path---about-f-34-4c2-0SUcWyAf8ecbYDsMhQkEfPzV8",
@@ -2069,7 +1911,7 @@
       "pages": [
         "/dev-404-page/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/404.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/404.js",
@@ -2078,7 +1920,7 @@
         "/404/",
         "/404.html"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/index.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/index.js",
@@ -2086,7 +1928,7 @@
       "pages": [
         "/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/page-2.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/page-2.js",
@@ -2094,7 +1936,7 @@
       "pages": [
         "/page-2/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/about.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/about.js",
@@ -2102,7 +1944,7 @@
       "pages": [
         "/about/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/projects.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/projects.js",
@@ -2110,20 +1952,16 @@
       "pages": [
         "/projects/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
       "query": "query usersThomasromanDesktopGatsbyportfolioSrcTemplatesProjectJs272242292(\n  $slug: String!\n) {\n  projectsJson(slug: {eq: $slug}) {\n    title\n    description\n    url\n    image {\n      childImageSharp {\n        fluid {\n          ...GatsbyImageSharpFluid\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "pages": [
         "/project-1/",
-        "/project-2/",
-        "/project-3/",
-        "/project-4/",
-        "/project-5/",
-        "/project-6/"
+        "/project-2/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     }
   },
   "staticQueryComponents": {

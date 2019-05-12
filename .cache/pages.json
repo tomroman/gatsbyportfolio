@@ -40,26 +40,6 @@
         "path": "/project-2/"
     },
     {
-        "componentChunkName": "component---src-templates-project-js",
-        "jsonName": "project-3-659",
-        "path": "/project-3/"
-    },
-    {
-        "componentChunkName": "component---src-templates-project-js",
-        "jsonName": "project-4-348",
-        "path": "/project-4/"
-    },
-    {
-        "componentChunkName": "component---src-templates-project-js",
-        "jsonName": "project-5-d16",
-        "path": "/project-5/"
-    },
-    {
-        "componentChunkName": "component---src-templates-project-js",
-        "jsonName": "project-6-c7e",
-        "path": "/project-6/"
-    },
-    {
         "componentChunkName": "component---src-pages-projects-js",
         "jsonName": "projects-9e9",
         "path": "/projects/"
