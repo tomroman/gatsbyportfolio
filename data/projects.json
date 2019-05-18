@@ -15,8 +15,15 @@
         "image": "./images/project3.png",
         "description": "Discover Hiking Trails, Restaraunts, Hotels, and Transit Near Any Location in the United States"
 
+    },
+    {
+        "title": "Giphy", 
+        "slug": "project-3", 
+        "url": "https://tomroman.github.io/Giphy/", 
+        "image": "./images/project1.jpeg",
+        "description": "jQuery project where users can create and click on buttons to render their favorite gifs."
+        
     }
-
 
 
 ]
