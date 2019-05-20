@@ -4,7 +4,7 @@
         "title": "Pong", 
         "slug": "project-1", 
         "url": "https://tomroman.github.io/Pong/", 
-        "image": "./images/project2.png",
+        "image": "./images/project1.png",
         "description": "Pong game created in Javascript"
     },
 
@@ -12,7 +12,7 @@
         "title": "Unearth", 
         "slug": "project-2", 
         "url": "https://unearth.business/", 
-        "image": "./images/project3.png",
+        "image": "./images/project2.png",
         "description": "Discover Hiking Trails, Restaraunts, Hotels, and Transit Near Any Location in the United States"
 
     },
@@ -20,7 +20,7 @@
         "title": "Giphy", 
         "slug": "project-3", 
         "url": "https://tomroman.github.io/Giphy/", 
-        "image": "./images/project1.jpeg",
+        "image": "./images/project3.png",
         "description": "jQuery project where users can create and click on buttons to render their favorite gifs."
         
     }
