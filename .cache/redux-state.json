@@ -1402,9 +1402,9 @@
       "extension": "json",
       "size": 796,
       "prettySize": "796 B",
-      "modifiedTime": "2019-05-20T04:00:13.000Z",
-      "accessTime": "2019-05-20T04:00:13.000Z",
-      "changeTime": "2019-05-20T04:00:13.000Z",
+      "modifiedTime": "2019-05-20T04:17:04.000Z",
+      "accessTime": "2019-05-20T04:17:04.000Z",
+      "changeTime": "2019-05-20T04:17:04.000Z",
       "birthTime": "2019-04-08T18:49:37.000Z",
       "root": "/",
       "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/data",
@@ -1421,13 +1421,13 @@
       "blksize": 4096,
       "ino": 5905439,
       "blocks": 8,
-      "atimeMs": 1558324813000,
-      "mtimeMs": 1558324813000,
-      "ctimeMs": 1558324813000,
+      "atimeMs": 1558325824000,
+      "mtimeMs": 1558325824000,
+      "ctimeMs": 1558325824000,
       "birthtimeMs": 1554749377000,
-      "atime": "2019-05-20T04:00:13.000Z",
-      "mtime": "2019-05-20T04:00:13.000Z",
-      "ctime": "2019-05-20T04:00:13.000Z",
+      "atime": "2019-05-20T04:17:04.000Z",
+      "mtime": "2019-05-20T04:17:04.000Z",
+      "ctime": "2019-05-20T04:17:04.000Z",
       "birthtime": "2019-04-08T18:49:37.000Z"
     },
     "SitePage /project-1/": {
@@ -1625,63 +1625,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "5bc5ba0d-d7ea-518e-a7c5-05820adf86b1": {
-      "id": "5bc5ba0d-d7ea-518e-a7c5-05820adf86b1",
-      "children": [
-        "6e526f48-dbbb-59ae-a23c-d63cb4b300ec"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "cc05fb94c404f1aa0262c687360d6660",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"data/images/Screen Shot 2019-05-19 at 10.57.42 PM.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "project",
-      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/data/images/Screen Shot 2019-05-19 at 10.57.42 PM.png",
-      "relativePath": "images/Screen Shot 2019-05-19 at 10.57.42 PM.png",
-      "extension": "png",
-      "size": 727379,
-      "prettySize": "727 kB",
-      "modifiedTime": "2019-05-20T03:57:48.000Z",
-      "accessTime": "2019-05-20T03:57:55.000Z",
-      "changeTime": "2019-05-20T03:57:48.000Z",
-      "birthTime": "2019-05-20T03:57:48.000Z",
-      "root": "/",
-      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/data/images",
-      "base": "Screen Shot 2019-05-19 at 10.57.42 PM.png",
-      "ext": ".png",
-      "name": "Screen Shot 2019-05-19 at 10.57.42 PM",
-      "relativeDirectory": "images",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 6909255,
-      "blocks": 1424,
-      "atimeMs": 1558324675000,
-      "mtimeMs": 1558324668000,
-      "ctimeMs": 1558324668000,
-      "birthtimeMs": 1558324668000,
-      "atime": "2019-05-20T03:57:55.000Z",
-      "mtime": "2019-05-20T03:57:48.000Z",
-      "ctime": "2019-05-20T03:57:48.000Z",
-      "birthtime": "2019-05-20T03:57:48.000Z"
-    },
-    "6e526f48-dbbb-59ae-a23c-d63cb4b300ec": {
-      "id": "6e526f48-dbbb-59ae-a23c-d63cb4b300ec",
-      "children": [],
-      "parent": "5bc5ba0d-d7ea-518e-a7c5-05820adf86b1",
-      "internal": {
-        "contentDigest": "cc05fb94c404f1aa0262c687360d6660",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "c47276db-c00e-53d4-b189-040f4140ad26": {
       "id": "c47276db-c00e-53d4-b189-040f4140ad26",
       "children": [
@@ -1853,6 +1796,63 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "fc0083c8-3962-59bd-88d3-5ca4083ac961": {
+      "id": "fc0083c8-3962-59bd-88d3-5ca4083ac961",
+      "children": [
+        "9626d9ae-9e8c-5d95-820c-7576c070e370"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "cc05fb94c404f1aa0262c687360d6660",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"data/images/project3.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "project",
+      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/data/images/project3.png",
+      "relativePath": "images/project3.png",
+      "extension": "png",
+      "size": 727379,
+      "prettySize": "727 kB",
+      "modifiedTime": "2019-05-20T04:00:23.000Z",
+      "accessTime": "2019-05-20T03:59:28.000Z",
+      "changeTime": "2019-05-20T04:00:23.000Z",
+      "birthTime": "2019-05-20T03:57:48.000Z",
+      "root": "/",
+      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/data/images",
+      "base": "project3.png",
+      "ext": ".png",
+      "name": "project3",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6909255,
+      "blocks": 1424,
+      "atimeMs": 1558324768000,
+      "mtimeMs": 1558324823000,
+      "ctimeMs": 1558324823000,
+      "birthtimeMs": 1558324668000,
+      "atime": "2019-05-20T03:59:28.000Z",
+      "mtime": "2019-05-20T04:00:23.000Z",
+      "ctime": "2019-05-20T04:00:23.000Z",
+      "birthtime": "2019-05-20T03:57:48.000Z"
+    },
+    "9626d9ae-9e8c-5d95-820c-7576c070e370": {
+      "id": "9626d9ae-9e8c-5d95-820c-7576c070e370",
+      "children": [],
+      "parent": "fc0083c8-3962-59bd-88d3-5ca4083ac961",
+      "internal": {
+        "contentDigest": "cc05fb94c404f1aa0262c687360d6660",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
     "ccd13fd8-b57a-5361-b5b4-21263b304b48": {
       "title": "Pong",
       "slug": "project-1",
@@ -1958,12 +1958,14 @@
       "9626d9ae-9e8c-5d95-820c-7576c070e370": [
         "/",
         "/project-2/",
-        "sq--src-pages-index-js"
+        "sq--src-pages-index-js",
+        "/project-3/"
       ],
       "fc0083c8-3962-59bd-88d3-5ca4083ac961": [
         "/",
         "/project-2/",
-        "sq--src-pages-index-js"
+        "sq--src-pages-index-js",
+        "/project-3/"
       ],
       "b7049a00-1ded-5373-a247-bf26272d48bd": [
         "/project-3/"
@@ -1986,6 +1988,16 @@
         "sq--src-pages-index-js",
         "/",
         "/project-1/"
+      ],
+      "770c29ce-8b0e-5a64-8243-f757f1e761c7": [
+        "sq--src-pages-index-js",
+        "/",
+        "/project-3/"
+      ],
+      "c47276db-c00e-53d4-b189-040f4140ad26": [
+        "sq--src-pages-index-js",
+        "/",
+        "/project-3/"
       ]
     },
     "connections": {
@@ -2004,12 +2016,12 @@
     "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "sq--src-pages-index-js": 1381110386,
     "sq--src-components-image-js": 2011440971,
-    "index": "652/path---index-6a9-DUMLrZXOqpu0atSVRi9o8Ap0NA",
+    "index": "635/path---index-6a9-WQQUJXjsM6WZfAjBl4M2jIKA",
     "project-1-396": "162/path---project-1-396-2e2-QZdsXhbX8WdhtWbeIAQWbdQIw",
     "project-2-11e": "744/path---project-2-11-e-3b7-WEyx00YHBLhvHGSApV3YoJcdUQk",
     "about-f34": "708/path---about-f-34-4c2-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "projects-9e9": "175/path---projects-9-e-9-957-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "project-3-659": "412/path---project-3-659-327-YOZLTValLzcYg2Yy5gWTwB1bfNk",
+    "project-3-659": "11/path---project-3-659-327-wkTOwvfiqALjZNEfOgYGZsDZl8",
     "project-5-d16": "191/path---project-5-d-16-a23-rzppi3PCsaaEToVN8CcImhHtCwI",
     "project-4-348": "787/path---project-4-348-da0-lGYKdBWihwVwGsHdbl26MSD0YNk",
     "project-6-c7e": "590/path---project-6-c-7-e-c1b-c6vpJNfwmiYHapAzMz2qNNdraCM"
