@@ -1920,8 +1920,7 @@
         "/project-3/",
         "/project-4/",
         "/project-5/",
-        "/project-6/",
-        "sq--src-pages-index-js"
+        "/project-6/"
       ],
       "f82d6b5f-10c9-5126-8bae-c2e5bddc3e66": [
         "/"
@@ -1931,8 +1930,7 @@
         "/project-3/",
         "/project-4/",
         "/project-5/",
-        "/project-6/",
-        "sq--src-pages-index-js"
+        "/project-6/"
       ],
       "f0ccf0f5-eae4-5d14-970b-1565c1d2e2de": [
         "/"
@@ -1946,26 +1944,26 @@
       "0855239c-e7a4-56cd-a0bc-3a87e4a0eb63": [
         "/",
         "/project-1/",
-        "sq--src-pages-index-js",
-        "/project-2/"
+        "/project-2/",
+        "sq--src-pages-index-js"
       ],
       "f7337fe6-42e1-5978-83fc-d2fa4fe0b4bc": [
         "/",
         "/project-1/",
-        "sq--src-pages-index-js",
-        "/project-2/"
+        "/project-2/",
+        "sq--src-pages-index-js"
       ],
       "9626d9ae-9e8c-5d95-820c-7576c070e370": [
         "/",
         "/project-2/",
-        "sq--src-pages-index-js",
-        "/project-3/"
+        "/project-3/",
+        "sq--src-pages-index-js"
       ],
       "fc0083c8-3962-59bd-88d3-5ca4083ac961": [
         "/",
         "/project-2/",
-        "sq--src-pages-index-js",
-        "/project-3/"
+        "/project-3/",
+        "sq--src-pages-index-js"
       ],
       "b7049a00-1ded-5373-a247-bf26272d48bd": [
         "/project-3/"
@@ -1980,22 +1978,20 @@
         "/project-6/"
       ],
       "34f5347f-66ce-5ac2-9c3e-956a27f99480": [
-        "sq--src-pages-index-js",
         "/",
-        "/project-1/"
+        "/project-1/",
+        "sq--src-pages-index-js"
       ],
       "7e015606-a3c9-5905-852a-d4ca703dc912": [
-        "sq--src-pages-index-js",
         "/",
-        "/project-1/"
+        "/project-1/",
+        "sq--src-pages-index-js"
       ],
       "770c29ce-8b0e-5a64-8243-f757f1e761c7": [
-        "sq--src-pages-index-js",
         "/",
         "/project-3/"
       ],
       "c47276db-c00e-53d4-b189-040f4140ad26": [
-        "sq--src-pages-index-js",
         "/",
         "/project-3/"
       ]
@@ -2033,7 +2029,7 @@
       "pages": [
         "/dev-404-page/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/404.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/404.js",
@@ -2042,7 +2038,7 @@
         "/404/",
         "/404.html"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/index.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/index.js",
@@ -2050,7 +2046,7 @@
       "pages": [
         "/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/page-2.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/page-2.js",
@@ -2058,7 +2054,7 @@
       "pages": [
         "/page-2/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/about.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/about.js",
@@ -2066,7 +2062,7 @@
       "pages": [
         "/about/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/projects.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/projects.js",
@@ -2074,11 +2070,11 @@
       "pages": [
         "/projects/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js": {
-      "query": "query usersThomasromanDesktopGatsbyportfolioSrcTemplatesProjectJs272242292(\n  $slug: String!\n) {\n  projectsJson(slug: {eq: $slug}) {\n    title\n    description\n    url\n    image {\n      childImageSharp {\n        fluid {\n          ...GatsbyImageSharpFluid\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
+      "query": "query usersThomasromanDesktopGatsbyportfolioSrcTemplatesProjectJs272242292(\n  $slug: String!\n) {\n  projectsJson(slug: {eq: $slug}) {\n    title\n    description\n    url\n    image {\n      childImageSharp {\n        fluid {\n          ...GatsbyImageSharpFluid\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "pages": [
         "/project-1/",
         "/project-2/",
