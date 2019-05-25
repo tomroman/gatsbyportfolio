@@ -12,7 +12,7 @@ import { StaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import Menu from "../components/menu"
 import "./layout.css"
-import Footer from "../components/Footer"
+
 
 const Layout = ({ children }) => (
   <StaticQuery
@@ -28,7 +28,7 @@ const Layout = ({ children }) => (
     render={data => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
-        <Menu />
+        
         <div
           style={{
             margin: `0 auto`,
@@ -38,7 +38,7 @@ const Layout = ({ children }) => (
           }}
         >
           <main>{children}</main>
-          <Footer />
+          
         </div>
       </>
     )}
