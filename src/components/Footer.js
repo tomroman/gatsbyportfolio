@@ -1,25 +1,90 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import styled from 'styled-components'
+import { EDEADLK } from 'constants';
+
+const FooterContainer = styled.footer `
+    text-align: center;
+    `;
+
+const SocialIcons = styled.div`
+    width: 200px;
+    margin: 38px auto 10px;
+    padding-bottom: 0;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    `;
+
+const IconLink = styled.a`
+    text-decoration: none;
+    outline: 0;
+    @media (min-width: 420px) {
+        width: 320px;
+    }
+    `;
+
+const Icon = styled.img`
+    height: 30 px;
+    width: auto;
+    transition: 0.23s;
+    &:hover {
+        transform: template(0px, -6px);
+    }
+    `;
+
+const Copyright = styled.h5`
+    font-family: "Montserrat", "Helvetica", sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 2px;
+    margin: 14px auto;
+    `;
+const linkStyles = {
+    height: "33px",
+    width: "33px",
+    padding: "0",
+    margin: "0"
+};
 
 class Footer extends React.Component {
     render() {
         return (
-            <div id="footer">
-                <div className="inner">
-                    <ul className="icons">
-                        <li><a href="#" className="icon fa-twitter"><span className="label">Twitter</span></a></li>
-                        <li><a href="#" className="icon fa-github"><span className="label">Github</span></a></li>
-                        <li><a href="#" className="icon fa-dribbble"><span className="label">Dribbble</span></a></li>
-                        <li><a href="#" className="icon fa-envelope-o"><span className="label">Email</span></a></li>
-                    </ul>
-                    <ul className="copyright">
-                        <li>&copy; Gatsby</li>
-                    </ul>
-                </div>
-            </div>
+            <FooterContainer>
+                <SocialIcons>
+                    <IconLink
+                    style={linkStyles}
+                    href="https://github.com/tomroman"
+                    target="_blank"
+                    >
+
+                    <Icon
+                        style={linkStyles}
+                        src={
+                            this.props.backgroundIsBlack
+                            ? require("../images/icons/github-logo-white.svg")
+                            : require("../images/icons/github-logo-black.svg")
+                        }
+                        alt="Github"
+
+                        />
+
+
+                    </IconLink>
+                </SocialIcons>
+                <Copyright
+          style={
+            this.props.backgroundIsBlack
+              ? { color: "white" }
+              : { color: "black" }
+          }
+        >
+          &copy; Thomas Roman - 2019
+        </Copyright>
+            </FooterContainer>
         )
     }
 }
-
 export default Footer
-
