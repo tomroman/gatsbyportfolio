@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 import styled from 'styled-components'
 import { EDEADLK } from 'constants';
 
-const FooterContainer = styled.footer `
+const FooterContainer = styled.footer`
     text-align: center;
     `;
 
@@ -55,33 +55,47 @@ class Footer extends React.Component {
             <FooterContainer>
                 <SocialIcons>
                     <IconLink
-                    style={linkStyles}
-                    href="https://github.com/tomroman"
-                    target="_blank"
+                        style={linkStyles}
+                        href="https://github.com/tomroman"
+                        target="_blank"
                     >
 
-                    <Icon
-                        style={linkStyles}
-                        src={
-                            this.props.backgroundIsBlack
-                            ? require("../images/icons/github-logo-white.svg")
-                            : require("../images/icons/github-logo-black.svg")
-                        }
-                        alt="Github"
+                        <Icon
+                            style={linkStyles}
+                            src={
+                                this.props.backgroundIsBlack
+                                    ? require("../images/icons/github-logo-white.svg")
+                                    : require("../images/icons/github-logo-black.svg")
+                            }
+                            alt="Github"
 
                         />
-
-
                     </IconLink>
+                    <IconLink
+                        style={linkStyles}
+                        href="https://www.linkedin.com/in/tomroman"
+                        target="_blank"
+                    >
+                        <Icon
+                            style={linkStyles}
+                            src={
+                                this.props.backgroundIsBlack
+                                    ? require("../images/icons/linkedin-logo-white.svg")
+                                    : require("../images/icons/linkedin-logo-black.svg")
+                            }
+                            alt="Linkedin"
+                        />
+                    </IconLink>
+
                 </SocialIcons>
                 <Copyright
-          style={
-            this.props.backgroundIsBlack
-              ? { color: "white" }
-              : { color: "black" }
-          }
-        >
-          &copy; Thomas Roman - 2019
+                    style={
+                        this.props.backgroundIsBlack
+                            ? { color: "white" }
+                            : { color: "black" }
+                    }
+                >
+                    &copy; Thomas Roman - 2019
         </Copyright>
             </FooterContainer>
         )

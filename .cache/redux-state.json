@@ -197,6 +197,87 @@
         "owner": "internal-data-bridge"
       }
     },
+    "176dadcc-aa26-5c02-a651-88867760143b": {
+      "resolve": "/Users/thomasroman/Desktop/gatsbyportfolio/node_modules/gatsby-plugin-styled-components",
+      "id": "176dadcc-aa26-5c02-a651-88867760143b",
+      "name": "gatsby-plugin-styled-components",
+      "version": "3.0.7",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateBabelConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "wrapRootElement",
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/thomasroman/Desktop/gatsbyportfolio/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "3.0.7",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": {
+          "name": "Guten Ye",
+          "email": "ywzhaifei@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.2.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "babel-plugin-styled-components",
+            "version": ">1.5.0"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.32"
+          },
+          {
+            "name": "styled-components",
+            "version": ">=2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "6da9e1ca5203d80cf71f8a9458885137",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
       "resolve": "/Users/thomasroman/Desktop/gatsbyportfolio/node_modules/gatsby-plugin-react-helmet",
       "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
@@ -921,7 +1002,7 @@
       "resolve": "/Users/thomasroman/Desktop/gatsbyportfolio",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "24bdb9ecc5744491a5e7acc1a5d9e651",
+      "version": "7d8d147a20a63615dc999e2b12def22d",
       "pluginOptions": {
         "plugins": []
       },
@@ -941,6 +1022,10 @@
         "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
+          {
+            "name": "babel-plugin-styled-components",
+            "version": "^1.10.0"
+          },
           {
             "name": "gatsby",
             "version": "^2.3.15"
@@ -964,6 +1049,10 @@
           {
             "name": "gatsby-plugin-sharp",
             "version": "^2.0.32"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^3.0.7"
           },
           {
             "name": "gatsby-source-filesystem",
@@ -992,6 +1081,10 @@
           {
             "name": "react-helmet",
             "version": "^5.2.0"
+          },
+          {
+            "name": "styled-components",
+            "version": "^4.2.0"
           }
         ],
         "devDependencies": [
@@ -1007,7 +1100,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "f2efae1444d96343e34f52ec29133edc",
+        "contentDigest": "be2d075031a6cd5485c5013e0765b821",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1123,12 +1216,14 @@
       },
       "port": 8000,
       "host": "localhost",
-      "buildTime": "2019-05-25T04:53:10.747Z",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-05-28T04:45:41.928Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "e0caf07838f3c4dddb9d7379a35652bb",
+        "contentDigest": "d19af7fadcfb48408155e2336733e094",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1138,7 +1233,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "0f506d78ef602d8ef1554e4bf1f4ffed",
+        "contentDigest": "cf775fb947dd5a3c112dc8852b6c8cef",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1147,11 +1242,11 @@
       "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images",
       "relativePath": "",
       "extension": "",
-      "size": 136,
-      "prettySize": "136 B",
-      "modifiedTime": "2019-04-08T18:35:46.000Z",
-      "accessTime": "2019-05-25T04:53:30.000Z",
-      "changeTime": "2019-04-09T21:37:48.000Z",
+      "size": 204,
+      "prettySize": "204 B",
+      "modifiedTime": "2019-05-26T05:38:08.000Z",
+      "accessTime": "2019-05-28T04:46:05.000Z",
+      "changeTime": "2019-05-26T05:38:08.000Z",
       "birthTime": "2019-04-08T18:35:46.000Z",
       "root": "/",
       "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/src",
@@ -1161,21 +1256,65 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 4,
+      "nlink": 6,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 5944334,
       "blocks": 0,
-      "atimeMs": 1558760010000,
-      "mtimeMs": 1554748546000,
-      "ctimeMs": 1554845868000,
+      "atimeMs": 1559018765000,
+      "mtimeMs": 1558849088000,
+      "ctimeMs": 1558849088000,
       "birthtimeMs": 1554748546000,
-      "atime": "2019-05-25T04:53:30.000Z",
-      "mtime": "2019-04-08T18:35:46.000Z",
-      "ctime": "2019-04-09T21:37:48.000Z",
+      "atime": "2019-05-28T04:46:05.000Z",
+      "mtime": "2019-05-26T05:38:08.000Z",
+      "ctime": "2019-05-26T05:38:08.000Z",
       "birthtime": "2019-04-08T18:35:46.000Z"
+    },
+    "2f13a56f-5f20-5bce-b2c7-f766a8253403": {
+      "id": "2f13a56f-5f20-5bce-b2c7-f766a8253403",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "49d74a0764154a621c707f7b6257691b",
+        "type": "Directory",
+        "description": "Directory \"src/images/icons\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons",
+      "relativePath": "icons",
+      "extension": "",
+      "size": 170,
+      "prettySize": "170 B",
+      "modifiedTime": "2019-05-26T05:38:10.000Z",
+      "accessTime": "2019-05-28T04:46:05.000Z",
+      "changeTime": "2019-05-26T05:38:10.000Z",
+      "birthTime": "2019-05-26T05:34:26.000Z",
+      "root": "/",
+      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images",
+      "base": "icons",
+      "ext": "",
+      "name": "icons",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 5,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6974693,
+      "blocks": 0,
+      "atimeMs": 1559018765000,
+      "mtimeMs": 1558849090000,
+      "ctimeMs": 1558849090000,
+      "birthtimeMs": 1558848866000,
+      "atime": "2019-05-28T04:46:05.000Z",
+      "mtime": "2019-05-26T05:38:10.000Z",
+      "ctime": "2019-05-26T05:38:10.000Z",
+      "birthtime": "2019-05-26T05:34:26.000Z"
     },
     "3b355046-b91a-5bd0-8e62-18ce7beaa7d8": {
       "id": "3b355046-b91a-5bd0-8e62-18ce7beaa7d8",
@@ -1197,7 +1336,7 @@
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2019-04-08T18:35:46.000Z",
-      "accessTime": "2019-04-09T21:37:48.000Z",
+      "accessTime": "2019-05-26T05:34:14.000Z",
       "changeTime": "2019-04-09T21:37:48.000Z",
       "birthTime": "2019-04-08T18:35:46.000Z",
       "root": "/",
@@ -1215,11 +1354,11 @@
       "blksize": 4096,
       "ino": 5944336,
       "blocks": 48,
-      "atimeMs": 1554845868000,
+      "atimeMs": 1558848854000,
       "mtimeMs": 1554748546000,
       "ctimeMs": 1554845868000,
       "birthtimeMs": 1554748546000,
-      "atime": "2019-04-09T21:37:48.000Z",
+      "atime": "2019-05-26T05:34:14.000Z",
       "mtime": "2019-04-08T18:35:46.000Z",
       "ctime": "2019-04-09T21:37:48.000Z",
       "birthtime": "2019-04-08T18:35:46.000Z"
@@ -1233,6 +1372,51 @@
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
+    },
+    "c31c41e9-f45b-5289-a04b-f4ed545992fc": {
+      "id": "c31c41e9-f45b-5289-a04b-f4ed545992fc",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "dec21930a1a4f59520b5c55bff21dc6f",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/icons/github-logo-white.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons/github-logo-white.svg",
+      "relativePath": "icons/github-logo-white.svg",
+      "extension": "svg",
+      "size": 2902,
+      "prettySize": "2.9 kB",
+      "modifiedTime": "2019-05-26T05:36:50.000Z",
+      "accessTime": "2019-05-26T05:46:45.000Z",
+      "changeTime": "2019-05-26T05:37:04.000Z",
+      "birthTime": "2019-05-26T05:36:50.000Z",
+      "root": "/",
+      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons",
+      "base": "github-logo-white.svg",
+      "ext": ".svg",
+      "name": "github-logo-white",
+      "relativeDirectory": "icons",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6974752,
+      "blocks": 8,
+      "atimeMs": 1558849605000,
+      "mtimeMs": 1558849010000,
+      "ctimeMs": 1558849024000,
+      "birthtimeMs": 1558849010000,
+      "atime": "2019-05-26T05:46:45.000Z",
+      "mtime": "2019-05-26T05:36:50.000Z",
+      "ctime": "2019-05-26T05:37:04.000Z",
+      "birthtime": "2019-05-26T05:36:50.000Z"
     },
     "8e25172b-4860-5679-ab9b-f56333c76511": {
       "id": "8e25172b-4860-5679-ab9b-f56333c76511",
@@ -1254,7 +1438,7 @@
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2019-04-08T18:35:46.000Z",
-      "accessTime": "2019-04-09T22:20:45.000Z",
+      "accessTime": "2019-05-26T05:40:28.000Z",
       "changeTime": "2019-04-09T21:37:48.000Z",
       "birthTime": "2019-04-08T18:35:46.000Z",
       "root": "/",
@@ -1272,11 +1456,11 @@
       "blksize": 4096,
       "ino": 5944335,
       "blocks": 328,
-      "atimeMs": 1554848445000,
+      "atimeMs": 1558849228000,
       "mtimeMs": 1554748546000,
       "ctimeMs": 1554845868000,
       "birthtimeMs": 1554748546000,
-      "atime": "2019-04-09T22:20:45.000Z",
+      "atime": "2019-05-26T05:40:28.000Z",
       "mtime": "2019-04-08T18:35:46.000Z",
       "ctime": "2019-04-09T21:37:48.000Z",
       "birthtime": "2019-04-08T18:35:46.000Z"
@@ -1291,12 +1475,57 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "ee959f99-187b-51af-9ae4-499741502192": {
+      "id": "ee959f99-187b-51af-9ae4-499741502192",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "cbfcfaece75150f27a15e9ee4377ec72",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/icons/github-logo-black.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons/github-logo-black.svg",
+      "relativePath": "icons/github-logo-black.svg",
+      "extension": "svg",
+      "size": 1955,
+      "prettySize": "1.96 kB",
+      "modifiedTime": "2019-05-26T05:36:10.000Z",
+      "accessTime": "2019-05-26T05:46:45.000Z",
+      "changeTime": "2019-05-26T05:36:38.000Z",
+      "birthTime": "2019-05-26T05:36:10.000Z",
+      "root": "/",
+      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons",
+      "base": "github-logo-black.svg",
+      "ext": ".svg",
+      "name": "github-logo-black",
+      "relativeDirectory": "icons",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6974726,
+      "blocks": 8,
+      "atimeMs": 1558849605000,
+      "mtimeMs": 1558848970000,
+      "ctimeMs": 1558848998000,
+      "birthtimeMs": 1558848970000,
+      "atime": "2019-05-26T05:46:45.000Z",
+      "mtime": "2019-05-26T05:36:10.000Z",
+      "ctime": "2019-05-26T05:36:38.000Z",
+      "birthtime": "2019-05-26T05:36:10.000Z"
+    },
     "7dfc5c08-d2b8-5f6f-abf8-1581d3ac791d": {
       "id": "7dfc5c08-d2b8-5f6f-abf8-1581d3ac791d",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "a51402d581b60868583daee3226ecbfe",
+        "contentDigest": "f450796edac832bf13aa948f01342458",
         "type": "Directory",
         "description": "Directory \"data\"",
         "owner": "gatsby-source-filesystem"
@@ -1308,7 +1537,7 @@
       "size": 170,
       "prettySize": "170 B",
       "modifiedTime": "2019-05-20T03:57:58.000Z",
-      "accessTime": "2019-05-25T04:53:30.000Z",
+      "accessTime": "2019-05-28T04:46:05.000Z",
       "changeTime": "2019-05-20T03:57:58.000Z",
       "birthTime": "2019-04-08T18:49:09.000Z",
       "root": "/",
@@ -1326,11 +1555,11 @@
       "blksize": 4096,
       "ino": 5905418,
       "blocks": 0,
-      "atimeMs": 1558760010000,
+      "atimeMs": 1559018765000,
       "mtimeMs": 1558324678000,
       "ctimeMs": 1558324678000,
       "birthtimeMs": 1554749349000,
-      "atime": "2019-05-25T04:53:30.000Z",
+      "atime": "2019-05-28T04:46:05.000Z",
       "mtime": "2019-05-20T03:57:58.000Z",
       "ctime": "2019-05-20T03:57:58.000Z",
       "birthtime": "2019-04-08T18:49:09.000Z"
@@ -1340,7 +1569,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "4bd57298ddf6cb60fa2f8c0388de5f9c",
+        "contentDigest": "64609b197218a9c7646e43e3ce4be82f",
         "type": "Directory",
         "description": "Directory \"data/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1352,7 +1581,7 @@
       "size": 238,
       "prettySize": "238 B",
       "modifiedTime": "2019-05-20T04:00:23.000Z",
-      "accessTime": "2019-05-25T04:53:30.000Z",
+      "accessTime": "2019-05-28T04:46:05.000Z",
       "changeTime": "2019-05-20T04:00:23.000Z",
       "birthTime": "2019-04-08T18:49:23.000Z",
       "root": "/",
@@ -1370,11 +1599,11 @@
       "blksize": 4096,
       "ino": 5905436,
       "blocks": 0,
-      "atimeMs": 1558760010000,
+      "atimeMs": 1559018765000,
       "mtimeMs": 1558324823000,
       "ctimeMs": 1558324823000,
       "birthtimeMs": 1554749363000,
-      "atime": "2019-05-25T04:53:30.000Z",
+      "atime": "2019-05-28T04:46:05.000Z",
       "mtime": "2019-05-20T04:00:23.000Z",
       "ctime": "2019-05-20T04:00:23.000Z",
       "birthtime": "2019-04-08T18:49:23.000Z"
@@ -1401,7 +1630,7 @@
       "size": 796,
       "prettySize": "796 B",
       "modifiedTime": "2019-05-20T04:17:04.000Z",
-      "accessTime": "2019-05-20T04:17:04.000Z",
+      "accessTime": "2019-05-25T04:53:30.000Z",
       "changeTime": "2019-05-20T04:17:04.000Z",
       "birthTime": "2019-04-08T18:49:37.000Z",
       "root": "/",
@@ -1419,71 +1648,14 @@
       "blksize": 4096,
       "ino": 5905439,
       "blocks": 8,
-      "atimeMs": 1558325824000,
+      "atimeMs": 1558760010000,
       "mtimeMs": 1558325824000,
       "ctimeMs": 1558325824000,
       "birthtimeMs": 1554749377000,
-      "atime": "2019-05-20T04:17:04.000Z",
+      "atime": "2019-05-25T04:53:30.000Z",
       "mtime": "2019-05-20T04:17:04.000Z",
       "ctime": "2019-05-20T04:17:04.000Z",
       "birthtime": "2019-04-08T18:49:37.000Z"
-    },
-    "c47276db-c00e-53d4-b189-040f4140ad26": {
-      "id": "c47276db-c00e-53d4-b189-040f4140ad26",
-      "children": [
-        "770c29ce-8b0e-5a64-8243-f757f1e761c7"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "3811e0dbfadd819b9e4b275b6eb432e4",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"data/images/project.jpeg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "project",
-      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/data/images/project.jpeg",
-      "relativePath": "images/project.jpeg",
-      "extension": "jpeg",
-      "size": 21603,
-      "prettySize": "21.6 kB",
-      "modifiedTime": "2019-05-20T03:58:45.000Z",
-      "accessTime": "2019-05-20T03:51:18.000Z",
-      "changeTime": "2019-05-20T03:58:45.000Z",
-      "birthTime": "2019-04-09T21:17:56.000Z",
-      "root": "/",
-      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/data/images",
-      "base": "project.jpeg",
-      "ext": ".jpeg",
-      "name": "project",
-      "relativeDirectory": "images",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 5905437,
-      "blocks": 48,
-      "atimeMs": 1558324278000,
-      "mtimeMs": 1558324725000,
-      "ctimeMs": 1558324725000,
-      "birthtimeMs": 1554844676000,
-      "atime": "2019-05-20T03:51:18.000Z",
-      "mtime": "2019-05-20T03:58:45.000Z",
-      "ctime": "2019-05-20T03:58:45.000Z",
-      "birthtime": "2019-04-09T21:17:56.000Z"
-    },
-    "770c29ce-8b0e-5a64-8243-f757f1e761c7": {
-      "id": "770c29ce-8b0e-5a64-8243-f757f1e761c7",
-      "children": [],
-      "parent": "c47276db-c00e-53d4-b189-040f4140ad26",
-      "internal": {
-        "contentDigest": "3811e0dbfadd819b9e4b275b6eb432e4",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "7e015606-a3c9-5905-852a-d4ca703dc912": {
       "id": "7e015606-a3c9-5905-852a-d4ca703dc912",
@@ -1505,7 +1677,7 @@
       "size": 34705,
       "prettySize": "34.7 kB",
       "modifiedTime": "2019-05-20T03:59:11.000Z",
-      "accessTime": "2019-05-20T03:58:48.000Z",
+      "accessTime": "2019-05-26T05:40:28.000Z",
       "changeTime": "2019-05-20T03:59:11.000Z",
       "birthTime": "2019-04-11T04:18:59.000Z",
       "root": "/",
@@ -1523,24 +1695,14 @@
       "blksize": 4096,
       "ino": 5979254,
       "blocks": 72,
-      "atimeMs": 1558324728000,
+      "atimeMs": 1558849228000,
       "mtimeMs": 1558324751000,
       "ctimeMs": 1558324751000,
       "birthtimeMs": 1554956339000,
-      "atime": "2019-05-20T03:58:48.000Z",
+      "atime": "2019-05-26T05:40:28.000Z",
       "mtime": "2019-05-20T03:59:11.000Z",
       "ctime": "2019-05-20T03:59:11.000Z",
       "birthtime": "2019-04-11T04:18:59.000Z"
-    },
-    "34f5347f-66ce-5ac2-9c3e-956a27f99480": {
-      "id": "34f5347f-66ce-5ac2-9c3e-956a27f99480",
-      "children": [],
-      "parent": "7e015606-a3c9-5905-852a-d4ca703dc912",
-      "internal": {
-        "contentDigest": "702efb50d0c8beb9872aad0aec892af3",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "f7337fe6-42e1-5978-83fc-d2fa4fe0b4bc": {
       "id": "f7337fe6-42e1-5978-83fc-d2fa4fe0b4bc",
@@ -1562,7 +1724,7 @@
       "size": 139714,
       "prettySize": "140 kB",
       "modifiedTime": "2019-05-20T03:59:19.000Z",
-      "accessTime": "2019-05-20T03:59:12.000Z",
+      "accessTime": "2019-05-26T05:40:28.000Z",
       "changeTime": "2019-05-20T03:59:19.000Z",
       "birthTime": "2019-04-29T04:02:18.000Z",
       "root": "/",
@@ -1580,14 +1742,71 @@
       "blksize": 4096,
       "ino": 6567059,
       "blocks": 280,
-      "atimeMs": 1558324752000,
+      "atimeMs": 1558849228000,
       "mtimeMs": 1558324759000,
       "ctimeMs": 1558324759000,
       "birthtimeMs": 1556510538000,
-      "atime": "2019-05-20T03:59:12.000Z",
+      "atime": "2019-05-26T05:40:28.000Z",
       "mtime": "2019-05-20T03:59:19.000Z",
       "ctime": "2019-05-20T03:59:19.000Z",
       "birthtime": "2019-04-29T04:02:18.000Z"
+    },
+    "c47276db-c00e-53d4-b189-040f4140ad26": {
+      "id": "c47276db-c00e-53d4-b189-040f4140ad26",
+      "children": [
+        "770c29ce-8b0e-5a64-8243-f757f1e761c7"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3811e0dbfadd819b9e4b275b6eb432e4",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"data/images/project.jpeg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "project",
+      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/data/images/project.jpeg",
+      "relativePath": "images/project.jpeg",
+      "extension": "jpeg",
+      "size": 21603,
+      "prettySize": "21.6 kB",
+      "modifiedTime": "2019-05-20T03:58:45.000Z",
+      "accessTime": "2019-05-25T04:53:30.000Z",
+      "changeTime": "2019-05-20T03:58:45.000Z",
+      "birthTime": "2019-04-09T21:17:56.000Z",
+      "root": "/",
+      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/data/images",
+      "base": "project.jpeg",
+      "ext": ".jpeg",
+      "name": "project",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5905437,
+      "blocks": 48,
+      "atimeMs": 1558760010000,
+      "mtimeMs": 1558324725000,
+      "ctimeMs": 1558324725000,
+      "birthtimeMs": 1554844676000,
+      "atime": "2019-05-25T04:53:30.000Z",
+      "mtime": "2019-05-20T03:58:45.000Z",
+      "ctime": "2019-05-20T03:58:45.000Z",
+      "birthtime": "2019-04-09T21:17:56.000Z"
+    },
+    "34f5347f-66ce-5ac2-9c3e-956a27f99480": {
+      "id": "34f5347f-66ce-5ac2-9c3e-956a27f99480",
+      "children": [],
+      "parent": "7e015606-a3c9-5905-852a-d4ca703dc912",
+      "internal": {
+        "contentDigest": "702efb50d0c8beb9872aad0aec892af3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "0855239c-e7a4-56cd-a0bc-3a87e4a0eb63": {
       "id": "0855239c-e7a4-56cd-a0bc-3a87e4a0eb63",
@@ -1599,59 +1818,12 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "fc0083c8-3962-59bd-88d3-5ca4083ac961": {
-      "id": "fc0083c8-3962-59bd-88d3-5ca4083ac961",
-      "children": [
-        "9626d9ae-9e8c-5d95-820c-7576c070e370"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "cc05fb94c404f1aa0262c687360d6660",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"data/images/project3.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "project",
-      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/data/images/project3.png",
-      "relativePath": "images/project3.png",
-      "extension": "png",
-      "size": 727379,
-      "prettySize": "727 kB",
-      "modifiedTime": "2019-05-20T04:00:23.000Z",
-      "accessTime": "2019-05-20T03:59:28.000Z",
-      "changeTime": "2019-05-20T04:00:23.000Z",
-      "birthTime": "2019-05-20T03:57:48.000Z",
-      "root": "/",
-      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/data/images",
-      "base": "project3.png",
-      "ext": ".png",
-      "name": "project3",
-      "relativeDirectory": "images",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 6909255,
-      "blocks": 1424,
-      "atimeMs": 1558324768000,
-      "mtimeMs": 1558324823000,
-      "ctimeMs": 1558324823000,
-      "birthtimeMs": 1558324668000,
-      "atime": "2019-05-20T03:59:28.000Z",
-      "mtime": "2019-05-20T04:00:23.000Z",
-      "ctime": "2019-05-20T04:00:23.000Z",
-      "birthtime": "2019-05-20T03:57:48.000Z"
-    },
-    "9626d9ae-9e8c-5d95-820c-7576c070e370": {
-      "id": "9626d9ae-9e8c-5d95-820c-7576c070e370",
+    "770c29ce-8b0e-5a64-8243-f757f1e761c7": {
+      "id": "770c29ce-8b0e-5a64-8243-f757f1e761c7",
       "children": [],
-      "parent": "fc0083c8-3962-59bd-88d3-5ca4083ac961",
+      "parent": "c47276db-c00e-53d4-b189-040f4140ad26",
       "internal": {
-        "contentDigest": "cc05fb94c404f1aa0262c687360d6660",
+        "contentDigest": "3811e0dbfadd819b9e4b275b6eb432e4",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -1699,6 +1871,63 @@
         "contentDigest": "413922753f6357c0bbf2ab3688dd682e",
         "type": "ProjectsJson",
         "owner": "gatsby-transformer-json"
+      }
+    },
+    "fc0083c8-3962-59bd-88d3-5ca4083ac961": {
+      "id": "fc0083c8-3962-59bd-88d3-5ca4083ac961",
+      "children": [
+        "9626d9ae-9e8c-5d95-820c-7576c070e370"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "cc05fb94c404f1aa0262c687360d6660",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"data/images/project3.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "project",
+      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/data/images/project3.png",
+      "relativePath": "images/project3.png",
+      "extension": "png",
+      "size": 727379,
+      "prettySize": "727 kB",
+      "modifiedTime": "2019-05-20T04:00:23.000Z",
+      "accessTime": "2019-05-26T05:40:28.000Z",
+      "changeTime": "2019-05-20T04:00:23.000Z",
+      "birthTime": "2019-05-20T03:57:48.000Z",
+      "root": "/",
+      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/data/images",
+      "base": "project3.png",
+      "ext": ".png",
+      "name": "project3",
+      "relativeDirectory": "images",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6909255,
+      "blocks": 1424,
+      "atimeMs": 1558849228000,
+      "mtimeMs": 1558324823000,
+      "ctimeMs": 1558324823000,
+      "birthtimeMs": 1558324668000,
+      "atime": "2019-05-26T05:40:28.000Z",
+      "mtime": "2019-05-20T04:00:23.000Z",
+      "ctime": "2019-05-20T04:00:23.000Z",
+      "birthtime": "2019-05-20T03:57:48.000Z"
+    },
+    "9626d9ae-9e8c-5d95-820c-7576c070e370": {
+      "id": "9626d9ae-9e8c-5d95-820c-7576c070e370",
+      "children": [],
+      "parent": "fc0083c8-3962-59bd-88d3-5ca4083ac961",
+      "internal": {
+        "contentDigest": "cc05fb94c404f1aa0262c687360d6660",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
       }
     },
     "SitePage /project-1/": {
@@ -1896,76 +2125,32 @@
         "owner": "internal-data-bridge"
       }
     },
-    "2f13a56f-5f20-5bce-b2c7-f766a8253403": {
-      "id": "2f13a56f-5f20-5bce-b2c7-f766a8253403",
+    "09d0863d-55ef-52f7-afd2-f9c0c5efb924": {
+      "id": "09d0863d-55ef-52f7-afd2-f9c0c5efb924",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "a3ac25ddb2dcaca6989119e6ae607f85",
-        "type": "Directory",
-        "description": "Directory \"src/images/icons\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons",
-      "relativePath": "icons",
-      "extension": "",
-      "size": 68,
-      "prettySize": "68 B",
-      "modifiedTime": "2019-05-26T05:34:26.000Z",
-      "accessTime": "2019-05-26T05:34:26.000Z",
-      "changeTime": "2019-05-26T05:34:26.000Z",
-      "birthTime": "2019-05-26T05:34:26.000Z",
-      "root": "/",
-      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images",
-      "base": "icons",
-      "ext": "",
-      "name": "icons",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 2,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 6974693,
-      "blocks": 0,
-      "atimeMs": 1558848866000,
-      "mtimeMs": 1558848866000,
-      "ctimeMs": 1558848866000,
-      "birthtimeMs": 1558848866000,
-      "atime": "2019-05-26T05:34:26.000Z",
-      "mtime": "2019-05-26T05:34:26.000Z",
-      "ctime": "2019-05-26T05:34:26.000Z",
-      "birthtime": "2019-05-26T05:34:26.000Z"
-    },
-    "c31c41e9-f45b-5289-a04b-f4ed545992fc": {
-      "id": "c31c41e9-f45b-5289-a04b-f4ed545992fc",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "dec21930a1a4f59520b5c55bff21dc6f",
+        "contentDigest": "abf6bce69370e196d98d5bbaa4bead4c",
         "type": "File",
         "mediaType": "image/svg+xml",
-        "description": "File \"src/images/icons/github-logo-white.svg\"",
+        "description": "File \"src/images/icons/linkedin-logo-white.svg\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons/github-logo-white.svg",
-      "relativePath": "icons/github-logo-white.svg",
+      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons/linkedin-logo-white.svg",
+      "relativePath": "icons/linkedin-logo-white.svg",
       "extension": "svg",
-      "size": 2902,
-      "prettySize": "2.9 kB",
-      "modifiedTime": "2019-05-26T05:36:50.000Z",
-      "accessTime": "2019-05-26T05:37:03.000Z",
-      "changeTime": "2019-05-26T05:37:04.000Z",
-      "birthTime": "2019-05-26T05:36:50.000Z",
+      "size": 1478,
+      "prettySize": "1.48 kB",
+      "modifiedTime": "2019-05-28T04:53:48.000Z",
+      "accessTime": "2019-05-28T04:54:00.000Z",
+      "changeTime": "2019-05-28T04:54:01.000Z",
+      "birthTime": "2019-05-28T04:53:48.000Z",
       "root": "/",
       "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons",
-      "base": "github-logo-white.svg",
+      "base": "linkedin-logo-white.svg",
       "ext": ".svg",
-      "name": "github-logo-white",
+      "name": "linkedin-logo-white",
       "relativeDirectory": "icons",
       "dev": 16777220,
       "mode": 33188,
@@ -1974,43 +2159,43 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 6974752,
+      "ino": 6995023,
       "blocks": 8,
-      "atimeMs": 1558849023000,
-      "mtimeMs": 1558849010000,
-      "ctimeMs": 1558849024000,
-      "birthtimeMs": 1558849010000,
-      "atime": "2019-05-26T05:37:03.000Z",
-      "mtime": "2019-05-26T05:36:50.000Z",
-      "ctime": "2019-05-26T05:37:04.000Z",
-      "birthtime": "2019-05-26T05:36:50.000Z"
+      "atimeMs": 1559019240000,
+      "mtimeMs": 1559019228000,
+      "ctimeMs": 1559019241000,
+      "birthtimeMs": 1559019228000,
+      "atime": "2019-05-28T04:54:00.000Z",
+      "mtime": "2019-05-28T04:53:48.000Z",
+      "ctime": "2019-05-28T04:54:01.000Z",
+      "birthtime": "2019-05-28T04:53:48.000Z"
     },
-    "ee959f99-187b-51af-9ae4-499741502192": {
-      "id": "ee959f99-187b-51af-9ae4-499741502192",
+    "589a924a-251b-5cc5-85e1-b64c6030f127": {
+      "id": "589a924a-251b-5cc5-85e1-b64c6030f127",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "cbfcfaece75150f27a15e9ee4377ec72",
+        "contentDigest": "b0e1e60a81984958306132691707bba4",
         "type": "File",
         "mediaType": "image/svg+xml",
-        "description": "File \"src/images/icons/github-logo-black.svg\"",
+        "description": "File \"src/images/icons/linkedin-logo-black.svg\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons/github-logo-black.svg",
-      "relativePath": "icons/github-logo-black.svg",
+      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons/linkedin-logo-black.svg",
+      "relativePath": "icons/linkedin-logo-black.svg",
       "extension": "svg",
-      "size": 1955,
-      "prettySize": "1.96 kB",
-      "modifiedTime": "2019-05-26T05:36:10.000Z",
-      "accessTime": "2019-05-26T05:38:10.000Z",
-      "changeTime": "2019-05-26T05:36:38.000Z",
-      "birthTime": "2019-05-26T05:36:10.000Z",
+      "size": 1062,
+      "prettySize": "1.06 kB",
+      "modifiedTime": "2019-05-28T04:53:16.000Z",
+      "accessTime": "2019-05-28T04:53:30.000Z",
+      "changeTime": "2019-05-28T04:53:31.000Z",
+      "birthTime": "2019-05-28T04:53:16.000Z",
       "root": "/",
       "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons",
-      "base": "github-logo-black.svg",
+      "base": "linkedin-logo-black.svg",
       "ext": ".svg",
-      "name": "github-logo-black",
+      "name": "linkedin-logo-black",
       "relativeDirectory": "icons",
       "dev": 16777220,
       "mode": 33188,
@@ -2019,21 +2204,21 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 6974726,
+      "ino": 6995005,
       "blocks": 8,
-      "atimeMs": 1558849090000,
-      "mtimeMs": 1558848970000,
-      "ctimeMs": 1558848998000,
-      "birthtimeMs": 1558848970000,
-      "atime": "2019-05-26T05:38:10.000Z",
-      "mtime": "2019-05-26T05:36:10.000Z",
-      "ctime": "2019-05-26T05:36:38.000Z",
-      "birthtime": "2019-05-26T05:36:10.000Z"
+      "atimeMs": 1559019210000,
+      "mtimeMs": 1559019196000,
+      "ctimeMs": 1559019211000,
+      "birthtimeMs": 1559019196000,
+      "atime": "2019-05-28T04:53:30.000Z",
+      "mtime": "2019-05-28T04:53:16.000Z",
+      "ctime": "2019-05-28T04:53:31.000Z",
+      "birthtime": "2019-05-28T04:53:16.000Z"
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "4ddb41e719fafacfe45e9b41ef8b28d4"
+    "PLUGINS_HASH": "befe21b50edb51532cdc4e7e8ef28eb9"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -2047,64 +2232,18 @@
       "effd1218-607d-58e7-86a5-34125a2d9b3e": [
         "sq--src-components-image-js"
       ],
-      "41cf1901-c1d0-59f8-a8c1-4c29ae81724c": [
-        "/project-3/",
-        "/project-4/",
-        "/project-5/",
-        "/project-6/"
-      ],
-      "f82d6b5f-10c9-5126-8bae-c2e5bddc3e66": [],
-      "a12f579a-d0eb-5146-8540-3783ad0db976": [
-        "/project-3/",
-        "/project-4/",
-        "/project-5/",
-        "/project-6/"
-      ],
-      "f0ccf0f5-eae4-5d14-970b-1565c1d2e2de": [],
-      "ccd13fd8-b57a-5361-b5b4-21263b304b48": [
-        "/project-1/"
-      ],
-      "e9bafc7a-534c-5360-a2b6-cccb39789a73": [
-        "/project-2/"
-      ],
-      "0855239c-e7a4-56cd-a0bc-3a87e4a0eb63": [
+      "34f5347f-66ce-5ac2-9c3e-956a27f99480": [
         "/project-1/",
-        "/project-2/",
         "/",
         "sq--src-pages-index-js"
       ],
-      "f7337fe6-42e1-5978-83fc-d2fa4fe0b4bc": [
-        "/project-1/",
+      "0855239c-e7a4-56cd-a0bc-3a87e4a0eb63": [
         "/project-2/",
         "/",
         "sq--src-pages-index-js"
       ],
       "9626d9ae-9e8c-5d95-820c-7576c070e370": [
-        "/project-2/",
         "/project-3/",
-        "/",
-        "sq--src-pages-index-js"
-      ],
-      "fc0083c8-3962-59bd-88d3-5ca4083ac961": [
-        "/project-2/",
-        "/project-3/",
-        "/",
-        "sq--src-pages-index-js"
-      ],
-      "b7049a00-1ded-5373-a247-bf26272d48bd": [
-        "/project-3/"
-      ],
-      "9bc16402-fc5c-5bb1-b24a-bc515863c06b": [
-        "/project-4/"
-      ],
-      "cae3758e-7c70-582c-b5bc-e5df11805dba": [
-        "/project-5/"
-      ],
-      "1299cfb0-03bb-5aa6-8f8a-4bbaed8ab2ed": [
-        "/project-6/"
-      ],
-      "34f5347f-66ce-5ac2-9c3e-956a27f99480": [
-        "/project-1/",
         "/",
         "sq--src-pages-index-js"
       ],
@@ -2113,10 +2252,23 @@
         "/",
         "sq--src-pages-index-js"
       ],
-      "770c29ce-8b0e-5a64-8243-f757f1e761c7": [
-        "/project-3/"
+      "f7337fe6-42e1-5978-83fc-d2fa4fe0b4bc": [
+        "/project-2/",
+        "/",
+        "sq--src-pages-index-js"
       ],
-      "c47276db-c00e-53d4-b189-040f4140ad26": [
+      "fc0083c8-3962-59bd-88d3-5ca4083ac961": [
+        "/project-3/",
+        "/",
+        "sq--src-pages-index-js"
+      ],
+      "ccd13fd8-b57a-5361-b5b4-21263b304b48": [
+        "/project-1/"
+      ],
+      "e9bafc7a-534c-5360-a2b6-cccb39789a73": [
+        "/project-2/"
+      ],
+      "b7049a00-1ded-5373-a247-bf26272d48bd": [
         "/project-3/"
       ]
     },
@@ -2147,6 +2299,16 @@
     "project-6-c7e": "590/path---project-6-c-7-e-c1b-c6vpJNfwmiYHapAzMz2qNNdraCM"
   },
   "components": {
+    "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js": {
+      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
+      "query": "query usersThomasromanDesktopGatsbyportfolioSrcTemplatesProjectJs272242292(\n  $slug: String!\n) {\n  projectsJson(slug: {eq: $slug}) {\n    title\n    description\n    url\n    image {\n      childImageSharp {\n        fluid {\n          ...GatsbyImageSharpFluid\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "pages": [
+        "/project-1/",
+        "/project-2/",
+        "/project-3/"
+      ],
+      "isInBootstrap": false
+    },
     "/Users/thomasroman/Desktop/gatsbyportfolio/.cache/dev-404-page.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/.cache/dev-404-page.js",
       "query": "",
@@ -2161,6 +2323,14 @@
       "pages": [
         "/404/",
         "/404.html"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/about.js": {
+      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/about.js",
+      "query": "",
+      "pages": [
+        "/about/"
       ],
       "isInBootstrap": false
     },
@@ -2180,29 +2350,11 @@
       ],
       "isInBootstrap": false
     },
-    "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/about.js": {
-      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/about.js",
-      "query": "",
-      "pages": [
-        "/about/"
-      ],
-      "isInBootstrap": false
-    },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/projects.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/projects.js",
       "query": "",
       "pages": [
         "/projects/"
-      ],
-      "isInBootstrap": false
-    },
-    "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js": {
-      "query": "query usersThomasromanDesktopGatsbyportfolioSrcTemplatesProjectJs272242292(\n  $slug: String!\n) {\n  projectsJson(slug: {eq: $slug}) {\n    title\n    description\n    url\n    image {\n      childImageSharp {\n        fluid {\n          ...GatsbyImageSharpFluid\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
-      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
-      "pages": [
-        "/project-1/",
-        "/project-2/",
-        "/project-3/"
       ],
       "isInBootstrap": false
     }
@@ -2215,6 +2367,14 @@
       "jsonName": "sq--src-components-image-js",
       "query": "query usersThomasromanDesktopGatsbyportfolioSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 2011440971
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
     },
     "sq--src-components-seo-js": {
       "name": "usersThomasromanDesktopGatsbyportfolioSrcComponentsSeoJs2417117884",
@@ -2231,14 +2391,6 @@
       "jsonName": "sq--src-pages-index-js",
       "query": "query usersThomasromanDesktopGatsbyportfolioSrcPagesIndexJs1381110386 {\n  allProjectsJson {\n    edges {\n      node {\n        title\n        slug\n        url\n        description\n        image {\n          childImageSharp {\n            fluid {\n              ...GatsbyImageSharpFluid\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 1381110386
-    },
-    "sq--src-components-layout-js": {
-      "name": "SiteTitleQuery",
-      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/components/layout.js",
-      "id": "sq--src-components-layout-js",
-      "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
-      "hash": 755544856
     }
   }
 }
