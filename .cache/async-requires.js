@@ -7,7 +7,6 @@ exports.components = {
   "component---src-pages-404-js": () => import("/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/404.js" /* webpackChunkName: "component---src-pages-404-js" */),
   "component---src-pages-about-js": () => import("/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/about.js" /* webpackChunkName: "component---src-pages-about-js" */),
   "component---src-pages-index-js": () => import("/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
-  "component---src-pages-page-2-js": () => import("/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/page-2.js" /* webpackChunkName: "component---src-pages-page-2-js" */),
   "component---src-pages-projects-js": () => import("/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/projects.js" /* webpackChunkName: "component---src-pages-projects-js" */)
 }
 

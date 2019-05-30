@@ -1218,12 +1218,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-28T04:45:41.928Z",
+      "buildTime": "2019-05-30T04:06:55.053Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "d19af7fadcfb48408155e2336733e094",
+        "contentDigest": "ed9799da53c81c71cff5736bbccdacc1",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1233,7 +1233,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "cf775fb947dd5a3c112dc8852b6c8cef",
+        "contentDigest": "0c211e65f8d9d5964387c8a812bd1982",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1245,7 +1245,7 @@
       "size": 204,
       "prettySize": "204 B",
       "modifiedTime": "2019-05-26T05:38:08.000Z",
-      "accessTime": "2019-05-28T04:46:05.000Z",
+      "accessTime": "2019-05-30T04:07:46.000Z",
       "changeTime": "2019-05-26T05:38:08.000Z",
       "birthTime": "2019-04-08T18:35:46.000Z",
       "root": "/",
@@ -1263,11 +1263,11 @@
       "blksize": 4096,
       "ino": 5944334,
       "blocks": 0,
-      "atimeMs": 1559018765000,
+      "atimeMs": 1559189266000,
       "mtimeMs": 1558849088000,
       "ctimeMs": 1558849088000,
       "birthtimeMs": 1554748546000,
-      "atime": "2019-05-28T04:46:05.000Z",
+      "atime": "2019-05-30T04:07:46.000Z",
       "mtime": "2019-05-26T05:38:08.000Z",
       "ctime": "2019-05-26T05:38:08.000Z",
       "birthtime": "2019-04-08T18:35:46.000Z"
@@ -1277,7 +1277,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "49d74a0764154a621c707f7b6257691b",
+        "contentDigest": "b86c3970c8fa3c0a4510be24be6a0098",
         "type": "Directory",
         "description": "Directory \"src/images/icons\"",
         "owner": "gatsby-source-filesystem"
@@ -1286,11 +1286,11 @@
       "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons",
       "relativePath": "icons",
       "extension": "",
-      "size": 170,
-      "prettySize": "170 B",
-      "modifiedTime": "2019-05-26T05:38:10.000Z",
-      "accessTime": "2019-05-28T04:46:05.000Z",
-      "changeTime": "2019-05-26T05:38:10.000Z",
+      "size": 238,
+      "prettySize": "238 B",
+      "modifiedTime": "2019-05-28T04:54:39.000Z",
+      "accessTime": "2019-05-30T04:07:46.000Z",
+      "changeTime": "2019-05-28T04:54:39.000Z",
       "birthTime": "2019-05-26T05:34:26.000Z",
       "root": "/",
       "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images",
@@ -1300,20 +1300,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 5,
+      "nlink": 7,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 6974693,
       "blocks": 0,
-      "atimeMs": 1559018765000,
-      "mtimeMs": 1558849090000,
-      "ctimeMs": 1558849090000,
+      "atimeMs": 1559189266000,
+      "mtimeMs": 1559019279000,
+      "ctimeMs": 1559019279000,
       "birthtimeMs": 1558848866000,
-      "atime": "2019-05-28T04:46:05.000Z",
-      "mtime": "2019-05-26T05:38:10.000Z",
-      "ctime": "2019-05-26T05:38:10.000Z",
+      "atime": "2019-05-30T04:07:46.000Z",
+      "mtime": "2019-05-28T04:54:39.000Z",
+      "ctime": "2019-05-28T04:54:39.000Z",
       "birthtime": "2019-05-26T05:34:26.000Z"
     },
     "3b355046-b91a-5bd0-8e62-18ce7beaa7d8": {
@@ -1525,7 +1525,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f450796edac832bf13aa948f01342458",
+        "contentDigest": "3aa70ab7b613ced57cd5e4271acf9448",
         "type": "Directory",
         "description": "Directory \"data\"",
         "owner": "gatsby-source-filesystem"
@@ -1537,7 +1537,7 @@
       "size": 170,
       "prettySize": "170 B",
       "modifiedTime": "2019-05-20T03:57:58.000Z",
-      "accessTime": "2019-05-28T04:46:05.000Z",
+      "accessTime": "2019-05-30T04:07:46.000Z",
       "changeTime": "2019-05-20T03:57:58.000Z",
       "birthTime": "2019-04-08T18:49:09.000Z",
       "root": "/",
@@ -1555,11 +1555,11 @@
       "blksize": 4096,
       "ino": 5905418,
       "blocks": 0,
-      "atimeMs": 1559018765000,
+      "atimeMs": 1559189266000,
       "mtimeMs": 1558324678000,
       "ctimeMs": 1558324678000,
       "birthtimeMs": 1554749349000,
-      "atime": "2019-05-28T04:46:05.000Z",
+      "atime": "2019-05-30T04:07:46.000Z",
       "mtime": "2019-05-20T03:57:58.000Z",
       "ctime": "2019-05-20T03:57:58.000Z",
       "birthtime": "2019-04-08T18:49:09.000Z"
@@ -1569,7 +1569,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "64609b197218a9c7646e43e3ce4be82f",
+        "contentDigest": "9497d4244f283d6b120cc1971542d54b",
         "type": "Directory",
         "description": "Directory \"data/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1581,7 +1581,7 @@
       "size": 238,
       "prettySize": "238 B",
       "modifiedTime": "2019-05-20T04:00:23.000Z",
-      "accessTime": "2019-05-28T04:46:05.000Z",
+      "accessTime": "2019-05-30T04:07:46.000Z",
       "changeTime": "2019-05-20T04:00:23.000Z",
       "birthTime": "2019-04-08T18:49:23.000Z",
       "root": "/",
@@ -1599,11 +1599,11 @@
       "blksize": 4096,
       "ino": 5905436,
       "blocks": 0,
-      "atimeMs": 1559018765000,
+      "atimeMs": 1559189266000,
       "mtimeMs": 1558324823000,
       "ctimeMs": 1558324823000,
       "birthtimeMs": 1554749363000,
-      "atime": "2019-05-28T04:46:05.000Z",
+      "atime": "2019-05-30T04:07:46.000Z",
       "mtime": "2019-05-20T04:00:23.000Z",
       "ctime": "2019-05-20T04:00:23.000Z",
       "birthtime": "2019-04-08T18:49:23.000Z"
@@ -1617,7 +1617,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "4edae509e1d3fb10d84f34f631c80fe3",
+        "contentDigest": "9bf167468c777b52d8faf7fb40411c89",
         "type": "File",
         "mediaType": "application/json",
         "description": "File \"data/projects.json\"",
@@ -1627,11 +1627,11 @@
       "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/data/projects.json",
       "relativePath": "projects.json",
       "extension": "json",
-      "size": 796,
-      "prettySize": "796 B",
-      "modifiedTime": "2019-05-20T04:17:04.000Z",
-      "accessTime": "2019-05-25T04:53:30.000Z",
-      "changeTime": "2019-05-20T04:17:04.000Z",
+      "size": 797,
+      "prettySize": "797 B",
+      "modifiedTime": "2019-05-28T05:14:07.000Z",
+      "accessTime": "2019-05-28T05:14:07.000Z",
+      "changeTime": "2019-05-28T05:14:07.000Z",
       "birthTime": "2019-04-08T18:49:37.000Z",
       "root": "/",
       "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/data",
@@ -1648,13 +1648,13 @@
       "blksize": 4096,
       "ino": 5905439,
       "blocks": 8,
-      "atimeMs": 1558760010000,
-      "mtimeMs": 1558325824000,
-      "ctimeMs": 1558325824000,
+      "atimeMs": 1559020447000,
+      "mtimeMs": 1559020447000,
+      "ctimeMs": 1559020447000,
       "birthtimeMs": 1554749377000,
-      "atime": "2019-05-25T04:53:30.000Z",
-      "mtime": "2019-05-20T04:17:04.000Z",
-      "ctime": "2019-05-20T04:17:04.000Z",
+      "atime": "2019-05-28T05:14:07.000Z",
+      "mtime": "2019-05-28T05:14:07.000Z",
+      "ctime": "2019-05-28T05:14:07.000Z",
       "birthtime": "2019-04-08T18:49:37.000Z"
     },
     "7e015606-a3c9-5905-852a-d4ca703dc912": {
@@ -1828,51 +1828,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "ccd13fd8-b57a-5361-b5b4-21263b304b48": {
-      "title": "Pong",
-      "slug": "project-1",
-      "url": "https://tomroman.github.io/Pong/",
-      "image": "./images/project1.png",
-      "description": "Pong game created in Javascript",
-      "id": "ccd13fd8-b57a-5361-b5b4-21263b304b48",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "f94b290c03ecc4f8969d0e28153d5e7f",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
-    },
-    "e9bafc7a-534c-5360-a2b6-cccb39789a73": {
-      "title": "Unearth",
-      "slug": "project-2",
-      "url": "https://unearth.business/",
-      "image": "./images/project2.png",
-      "description": "Discover Hiking Trails, Restaraunts, Hotels, and Transit Near Any Location in the United States",
-      "id": "e9bafc7a-534c-5360-a2b6-cccb39789a73",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "e35165c75afa2528a002050dc344f1dd",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
-    },
-    "b7049a00-1ded-5373-a247-bf26272d48bd": {
-      "title": "Giphy",
-      "slug": "project-3",
-      "url": "https://tomroman.github.io/Giphy/",
-      "image": "./images/project3.png",
-      "description": "jQuery project where users can create and click on buttons to render their favorite gifs.",
-      "id": "b7049a00-1ded-5373-a247-bf26272d48bd",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "413922753f6357c0bbf2ab3688dd682e",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
-    },
     "fc0083c8-3962-59bd-88d3-5ca4083ac961": {
       "id": "fc0083c8-3962-59bd-88d3-5ca4083ac961",
       "children": [
@@ -1928,6 +1883,141 @@
         "contentDigest": "cc05fb94c404f1aa0262c687360d6660",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "09d0863d-55ef-52f7-afd2-f9c0c5efb924": {
+      "id": "09d0863d-55ef-52f7-afd2-f9c0c5efb924",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "abf6bce69370e196d98d5bbaa4bead4c",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/icons/linkedin-logo-white.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons/linkedin-logo-white.svg",
+      "relativePath": "icons/linkedin-logo-white.svg",
+      "extension": "svg",
+      "size": 1478,
+      "prettySize": "1.48 kB",
+      "modifiedTime": "2019-05-28T04:53:48.000Z",
+      "accessTime": "2019-05-28T04:54:00.000Z",
+      "changeTime": "2019-05-28T04:54:01.000Z",
+      "birthTime": "2019-05-28T04:53:48.000Z",
+      "root": "/",
+      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons",
+      "base": "linkedin-logo-white.svg",
+      "ext": ".svg",
+      "name": "linkedin-logo-white",
+      "relativeDirectory": "icons",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6995023,
+      "blocks": 8,
+      "atimeMs": 1559019240000,
+      "mtimeMs": 1559019228000,
+      "ctimeMs": 1559019241000,
+      "birthtimeMs": 1559019228000,
+      "atime": "2019-05-28T04:54:00.000Z",
+      "mtime": "2019-05-28T04:53:48.000Z",
+      "ctime": "2019-05-28T04:54:01.000Z",
+      "birthtime": "2019-05-28T04:53:48.000Z"
+    },
+    "589a924a-251b-5cc5-85e1-b64c6030f127": {
+      "id": "589a924a-251b-5cc5-85e1-b64c6030f127",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "b0e1e60a81984958306132691707bba4",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/icons/linkedin-logo-black.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons/linkedin-logo-black.svg",
+      "relativePath": "icons/linkedin-logo-black.svg",
+      "extension": "svg",
+      "size": 1062,
+      "prettySize": "1.06 kB",
+      "modifiedTime": "2019-05-28T04:53:16.000Z",
+      "accessTime": "2019-05-28T04:53:30.000Z",
+      "changeTime": "2019-05-28T04:53:31.000Z",
+      "birthTime": "2019-05-28T04:53:16.000Z",
+      "root": "/",
+      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons",
+      "base": "linkedin-logo-black.svg",
+      "ext": ".svg",
+      "name": "linkedin-logo-black",
+      "relativeDirectory": "icons",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6995005,
+      "blocks": 8,
+      "atimeMs": 1559019210000,
+      "mtimeMs": 1559019196000,
+      "ctimeMs": 1559019211000,
+      "birthtimeMs": 1559019196000,
+      "atime": "2019-05-28T04:53:30.000Z",
+      "mtime": "2019-05-28T04:53:16.000Z",
+      "ctime": "2019-05-28T04:53:31.000Z",
+      "birthtime": "2019-05-28T04:53:16.000Z"
+    },
+    "ccd13fd8-b57a-5361-b5b4-21263b304b48": {
+      "title": "Pong",
+      "slug": "project-1",
+      "url": "https://tomroman.github.io/Pong/",
+      "image": "./images/project1.png",
+      "description": "Pong game created in Javascript",
+      "id": "ccd13fd8-b57a-5361-b5b4-21263b304b48",
+      "children": [],
+      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
+      "internal": {
+        "contentDigest": "f94b290c03ecc4f8969d0e28153d5e7f",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
+    "e9bafc7a-534c-5360-a2b6-cccb39789a73": {
+      "title": "Unearth",
+      "slug": "project-2",
+      "url": "https://unearth.business/",
+      "image": "./images/project2.png",
+      "description": "Discover Hiking Trails, Restaraunts, Hotels, and Transit Near Any Location in the United States.",
+      "id": "e9bafc7a-534c-5360-a2b6-cccb39789a73",
+      "children": [],
+      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
+      "internal": {
+        "contentDigest": "280e58a68b842ff85f03b997a8b3d4cf",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
+    "b7049a00-1ded-5373-a247-bf26272d48bd": {
+      "title": "Giphy",
+      "slug": "project-3",
+      "url": "https://tomroman.github.io/Giphy/",
+      "image": "./images/project3.png",
+      "description": "jQuery project where users can create and click on buttons to render their favorite gifs.",
+      "id": "b7049a00-1ded-5373-a247-bf26272d48bd",
+      "children": [],
+      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
+      "internal": {
+        "contentDigest": "413922753f6357c0bbf2ab3688dd682e",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
       }
     },
     "SitePage /project-1/": {
@@ -2062,27 +2152,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /page-2/": {
-      "jsonName": "page-2-fbc",
-      "internalComponentName": "ComponentPage2",
-      "path": "/page-2/",
-      "component": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "441c2023-0a64-504f-a929-5a423de007f7",
-      "pluginCreatorId": "441c2023-0a64-504f-a929-5a423de007f7",
-      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "1135371c3db7fd008ec9c87c1dc20f9f",
-        "description": "441c2023-0a64-504f-a929-5a423de007f7",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /projects/": {
       "jsonName": "projects-9e9",
       "internalComponentName": "ComponentProjects",
@@ -2124,96 +2193,6 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
-    },
-    "09d0863d-55ef-52f7-afd2-f9c0c5efb924": {
-      "id": "09d0863d-55ef-52f7-afd2-f9c0c5efb924",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "abf6bce69370e196d98d5bbaa4bead4c",
-        "type": "File",
-        "mediaType": "image/svg+xml",
-        "description": "File \"src/images/icons/linkedin-logo-white.svg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons/linkedin-logo-white.svg",
-      "relativePath": "icons/linkedin-logo-white.svg",
-      "extension": "svg",
-      "size": 1478,
-      "prettySize": "1.48 kB",
-      "modifiedTime": "2019-05-28T04:53:48.000Z",
-      "accessTime": "2019-05-28T04:54:00.000Z",
-      "changeTime": "2019-05-28T04:54:01.000Z",
-      "birthTime": "2019-05-28T04:53:48.000Z",
-      "root": "/",
-      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons",
-      "base": "linkedin-logo-white.svg",
-      "ext": ".svg",
-      "name": "linkedin-logo-white",
-      "relativeDirectory": "icons",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 6995023,
-      "blocks": 8,
-      "atimeMs": 1559019240000,
-      "mtimeMs": 1559019228000,
-      "ctimeMs": 1559019241000,
-      "birthtimeMs": 1559019228000,
-      "atime": "2019-05-28T04:54:00.000Z",
-      "mtime": "2019-05-28T04:53:48.000Z",
-      "ctime": "2019-05-28T04:54:01.000Z",
-      "birthtime": "2019-05-28T04:53:48.000Z"
-    },
-    "589a924a-251b-5cc5-85e1-b64c6030f127": {
-      "id": "589a924a-251b-5cc5-85e1-b64c6030f127",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "b0e1e60a81984958306132691707bba4",
-        "type": "File",
-        "mediaType": "image/svg+xml",
-        "description": "File \"src/images/icons/linkedin-logo-black.svg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons/linkedin-logo-black.svg",
-      "relativePath": "icons/linkedin-logo-black.svg",
-      "extension": "svg",
-      "size": 1062,
-      "prettySize": "1.06 kB",
-      "modifiedTime": "2019-05-28T04:53:16.000Z",
-      "accessTime": "2019-05-28T04:53:30.000Z",
-      "changeTime": "2019-05-28T04:53:31.000Z",
-      "birthTime": "2019-05-28T04:53:16.000Z",
-      "root": "/",
-      "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/src/images/icons",
-      "base": "linkedin-logo-black.svg",
-      "ext": ".svg",
-      "name": "linkedin-logo-black",
-      "relativeDirectory": "icons",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 6995005,
-      "blocks": 8,
-      "atimeMs": 1559019210000,
-      "mtimeMs": 1559019196000,
-      "ctimeMs": 1559019211000,
-      "birthtimeMs": 1559019196000,
-      "atime": "2019-05-28T04:53:30.000Z",
-      "mtime": "2019-05-28T04:53:16.000Z",
-      "ctime": "2019-05-28T04:53:31.000Z",
-      "birthtime": "2019-05-28T04:53:16.000Z"
     }
   },
   "status": {
@@ -2223,8 +2202,8 @@
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "sq--src-components-layout-js",
-        "sq--src-components-seo-js"
+        "sq--src-components-seo-js",
+        "sq--src-components-layout-js"
       ],
       "8e25172b-4860-5679-ab9b-f56333c76511": [
         "sq--src-components-image-js"
@@ -2235,32 +2214,38 @@
       "34f5347f-66ce-5ac2-9c3e-956a27f99480": [
         "/project-1/",
         "/",
-        "sq--src-pages-index-js"
+        "/projects/",
+        "sq--src-pages-projects-js"
       ],
       "0855239c-e7a4-56cd-a0bc-3a87e4a0eb63": [
         "/project-2/",
         "/",
-        "sq--src-pages-index-js"
+        "/projects/",
+        "sq--src-pages-projects-js"
       ],
       "9626d9ae-9e8c-5d95-820c-7576c070e370": [
         "/project-3/",
         "/",
-        "sq--src-pages-index-js"
+        "/projects/",
+        "sq--src-pages-projects-js"
       ],
       "7e015606-a3c9-5905-852a-d4ca703dc912": [
         "/project-1/",
         "/",
-        "sq--src-pages-index-js"
+        "/projects/",
+        "sq--src-pages-projects-js"
       ],
       "f7337fe6-42e1-5978-83fc-d2fa4fe0b4bc": [
         "/project-2/",
         "/",
-        "sq--src-pages-index-js"
+        "/projects/",
+        "sq--src-pages-projects-js"
       ],
       "fc0083c8-3962-59bd-88d3-5ca4083ac961": [
         "/project-3/",
         "/",
-        "sq--src-pages-index-js"
+        "/projects/",
+        "sq--src-pages-projects-js"
       ],
       "ccd13fd8-b57a-5361-b5b4-21263b304b48": [
         "/project-1/"
@@ -2275,7 +2260,8 @@
     "connections": {
       "ProjectsJson": [
         "/",
-        "sq--src-pages-index-js"
+        "/projects/",
+        "sq--src-pages-projects-js"
       ]
     }
   },
@@ -2288,11 +2274,11 @@
     "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "sq--src-pages-index-js": 1381110386,
     "sq--src-components-image-js": 2011440971,
-    "index": "635/path---index-6a9-WQQUJXjsM6WZfAjBl4M2jIKA",
+    "index": "2/path---index-6a9-cNQCMu9kk9qnyhvHB5iCfggxXfw",
     "project-1-396": "162/path---project-1-396-2e2-QZdsXhbX8WdhtWbeIAQWbdQIw",
-    "project-2-11e": "744/path---project-2-11-e-3b7-WEyx00YHBLhvHGSApV3YoJcdUQk",
+    "project-2-11e": "667/path---project-2-11-e-3b7-8WR4QqQCy6j0Y88H8bi43z2BKQ",
     "about-f34": "708/path---about-f-34-4c2-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "projects-9e9": "175/path---projects-9-e-9-957-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "projects-9e9": "591/path---projects-9-e-9-957-cNQCMu9kk9qnyhvHB5iCfggxXfw",
     "project-3-659": "11/path---project-3-659-327-wkTOwvfiqALjZNEfOgYGZsDZl8",
     "project-5-d16": "191/path---project-5-d-16-a23-rzppi3PCsaaEToVN8CcImhHtCwI",
     "project-4-348": "787/path---project-4-348-da0-lGYKdBWihwVwGsHdbl26MSD0YNk",
@@ -2342,17 +2328,9 @@
       ],
       "isInBootstrap": false
     },
-    "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/page-2.js": {
-      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/page-2.js",
-      "query": "",
-      "pages": [
-        "/page-2/"
-      ],
-      "isInBootstrap": false
-    },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/projects.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/projects.js",
-      "query": "",
+      "query": "query usersThomasromanDesktopGatsbyportfolioSrcPagesProjectsJs1381110386 {\n  allProjectsJson {\n    edges {\n      node {\n        title\n        slug\n        url\n        description\n        image {\n          childImageSharp {\n            fluid {\n              ...GatsbyImageSharpFluid\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "pages": [
         "/projects/"
       ],
@@ -2390,6 +2368,14 @@
       "id": "sq--src-pages-index-js",
       "jsonName": "sq--src-pages-index-js",
       "query": "query usersThomasromanDesktopGatsbyportfolioSrcPagesIndexJs1381110386 {\n  allProjectsJson {\n    edges {\n      node {\n        title\n        slug\n        url\n        description\n        image {\n          childImageSharp {\n            fluid {\n              ...GatsbyImageSharpFluid\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 1381110386
+    },
+    "sq--src-pages-projects-js": {
+      "name": "usersThomasromanDesktopGatsbyportfolioSrcPagesProjectsJs1381110386",
+      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/projects.js",
+      "id": "sq--src-pages-projects-js",
+      "jsonName": "sq--src-pages-projects-js",
+      "query": "query usersThomasromanDesktopGatsbyportfolioSrcPagesProjectsJs1381110386 {\n  allProjectsJson {\n    edges {\n      node {\n        title\n        slug\n        url\n        description\n        image {\n          childImageSharp {\n            fluid {\n              ...GatsbyImageSharpFluid\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 1381110386
     }
   }
