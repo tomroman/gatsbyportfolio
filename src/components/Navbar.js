@@ -2,6 +2,7 @@ import React from "react";
 import { Link, graphql, StaticQuery } from "gatsby";
 import styled from "styled-components";
 import Img from "gatsby-image";
+import menu from '../components/menu';
 
 const Header = styled.header`
   display: flex;
@@ -86,3 +87,35 @@ const linkStyles = {
   margin: 0,
   outline: 0
 };
+
+class Navbar extends React.Component {
+    render() {
+      return (
+        <Header>
+          
+       
+            <Menu>
+              <Link to="/" style={linkStyles}>
+                <MenuItem>Home</MenuItem>
+              </Link>
+              <Link to="/about/" style={linkStyles}>
+                <MenuItem>About</MenuItem>
+              </Link>
+            
+              <Link to="/projects/" style={linkStyles}>
+                <MenuItem>Blog</MenuItem>
+              </Link>
+              {/* <a href="#">Portfolio</a> */}
+              <HamButton
+                onClick={this.props.action}
+                src={require("../images/icons/menu-options.svg")}
+                alt="menu button"
+              />
+            </Menu>
+          
+        </Header>
+      );
+    }
+  }
+
+  export default Navbar;
