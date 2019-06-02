@@ -6,6 +6,7 @@ import MobileNav from "../components/MobileNav";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import styled from "styled-components";
+import img from "../images/gatsby-icon.png"
 
 
 const Container = styled.div`
