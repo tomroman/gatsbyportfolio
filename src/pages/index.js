@@ -1,8 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
-import "./normalize.css";
-import Head from "../utils/Helmet.js";
-import MobileNav from "../components/MobileNav";
+
+
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import styled from "styled-components";
@@ -117,58 +116,21 @@ const linkStyles = {
 };
 
 class Index extends React.Component {
-  constructor(props) {
-    super(props);
 
-    this.openMobileNav = this.openMobileNav.bind(this);
-    this.closeMobileNav = this.closeMobileNav.bind(this);
 
-    this.state = {
-      mobileNavIsOpen: false
-    };
-  }
 
-  openMobileNav() {
-    this.setState({
-      mobileNavIsOpen: true
-    });
-  }
-
-  closeMobileNav() {
-    this.setState({
-      mobileNavIsOpen: false
-    });
-  }
 
   render() {
     return (
       <Container>
-        <Head title="" />
-        <MobileNav
-          action={this.closeMobileNav}
-          open={this.state.mobileNavIsOpen}
-        />
+     
+
         <BlackLayer>
           <MainContent>
             {/* normal header menu */}
-            <Navbar action={this.openMobileNav} />
+            <Navbar />
 
-            <TextContainer>
-              <Text1>
-                I Design &amp; develop
-                <br />
-                Modern Websites.
-                <br />
-                For You.
-              </Text1>
-              <Link to="/contact/" style={linkStyles}>
-                <Text2>
-                  Let's work
-                  <br />
-                  Together
-                </Text2>
-              </Link>
-            </TextContainer>
+            
             <Footer backgroundIsBlack={true} />
           </MainContent>
         </BlackLayer>

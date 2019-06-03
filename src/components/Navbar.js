@@ -46,21 +46,17 @@ class Navbar extends React.Component {
        
             <Menu>
               <Link to="/" style={linkStyles}>
-                <MenuItem>Home</MenuItem>
+                
               </Link>
               <Link to="/about/" style={linkStyles}>
-                <MenuItem>About</MenuItem>
+                
               </Link>
             
               <Link to="/projects/" style={linkStyles}>
-                <MenuItem>Blog</MenuItem>
+                
               </Link>
               {/* <a href="#">Portfolio</a> */}
-              <HamButton
-                onClick={this.props.action}
-                src={require("../images/icons/menu-options.svg")}
-                alt="menu button"
-              />
+
             </Menu>
           
         </Header>
