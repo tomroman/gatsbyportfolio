@@ -14,6 +14,7 @@ import Menu from "../components/menu"
 import "./layout.css"
 
 
+
 const Layout = ({ children }) => (
   <StaticQuery
     query={graphql`
@@ -40,9 +41,14 @@ const Layout = ({ children }) => (
           <main>{children}</main>
           
         </div>
+
+        
       </>
+      
     )}
   />
+
+  
 )
 
 Layout.propTypes = {

@@ -7,6 +7,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import ProjectPreview from "../components/project-preview"
 
+
 const ProjectsPage = () => {
   const data = useStaticQuery(graphql`
   
