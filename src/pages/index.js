@@ -1,11 +1,12 @@
 import React from "react";
-import { Link } from "gatsby";
+// import { Link } from "gatsby";
 
 
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import styled from "styled-components";
 import img from "../images/gatsby-icon.png"
+import Layout from "../components/layout"
 
 
 const Container = styled.div`
@@ -122,19 +123,22 @@ class Index extends React.Component {
 
   render() {
     return (
-      <Container>
-     
+      <Layout>
+        <Container>
 
-        <BlackLayer>
-          <MainContent>
-            {/* normal header menu */}
-            <Navbar />
 
-            
-            <Footer backgroundIsBlack={true} />
-          </MainContent>
-        </BlackLayer>
-      </Container>
+
+          <BlackLayer>
+            <MainContent>
+              {/* normal header menu */}
+              <Navbar />
+
+
+              {/* <Footer backgroundIsBlack={true} /> */}
+            </MainContent>
+          </BlackLayer>
+        </Container>
+      </Layout>
     );
   }
 }
