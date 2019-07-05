@@ -3,9 +3,12 @@ import { Link } from 'gatsby';
 import Image from 'gatsby-image'; 
 
 const ProjectPreview = ({slug, title, description, imageData}) => (
+    
     <div className="project-preview">
         <Link to={`/${slug}/`}>
-            <Image fluid= {imageData} alt={title} />
+            <Image 
+            href= {url} 
+            fluid= {imageData} alt={title} />
             </Link> 
             <h2>
                 <Link to={`/${slug}/`}>{title}</Link>
