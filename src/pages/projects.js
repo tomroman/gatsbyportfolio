@@ -50,12 +50,14 @@ const ProjectsPage = () => {
       const description = project.description;
       const slug = project.slug; 
       const imageData = project.image.childImageSharp.fluid;
+      const url = project.url;
       return (
     <ProjectPreview
       title={title}
       description={description}
       imageData={imageData}
       slug={slug}
+      href={url}
 
       />
     );
