@@ -34,6 +34,7 @@ const ProjectTemplate = ({ data }) => {
                 description={description}
                 url={url}
                 imageData={imageData}
+                href={url}
             />
         </Layout> 
 
