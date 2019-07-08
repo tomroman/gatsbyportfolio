@@ -7,7 +7,7 @@ const Project = ({title, description, url, imageData}) => (
     <div className="project"> 
         <h1>{title}</h1>
         <Image 
-        href={url}
+        
         fluid={imageData} alt={title} />
         <p>{description}</p>
         <p>

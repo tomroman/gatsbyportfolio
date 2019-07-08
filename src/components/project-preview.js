@@ -7,7 +7,7 @@ const ProjectPreview = ({slug, title, description, imageData}) => (
     <div className="project-preview">
         <Link to={`/${slug}/`}>
             <Image 
-            href= {url} 
+            
             fluid= {imageData} alt={title} />
             </Link> 
             <h2>
