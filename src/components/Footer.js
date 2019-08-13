@@ -73,7 +73,7 @@ class Footer extends React.Component {
                     </IconLink>
                     <IconLink
                         style={linkStyles}
-                        href="https://www.linkedin.com/in/tomroman"
+                        href="https://www.linkedin.com/in/thomas-roman-132247191/"
                         target="_blank"
                     >
                         <Icon

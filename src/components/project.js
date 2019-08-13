@@ -12,7 +12,7 @@ const Project = ({title, description, url, imageData}) => (
         <p>{description}</p>
         <p>
             <a href={url}> View this project online &rarr;</a>
-            <a href={url}></a>
+           
         </p>
 
         <p>
@@ -22,6 +22,6 @@ const Project = ({title, description, url, imageData}) => (
     </div>
 )
 
-console.log(url)
+console.log()
 
 export default Project; 

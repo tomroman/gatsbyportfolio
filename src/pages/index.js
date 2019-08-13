@@ -1,5 +1,5 @@
 import React from "react";
-// import { Link } from "gatsby";
+import { Link } from "gatsby";
 
 
 import Navbar from "../components/Navbar";
@@ -130,11 +130,10 @@ class Index extends React.Component {
 
           <BlackLayer>
             <MainContent>
-              {/* normal header menu */}
-              <Navbar />
+              
+             
 
 
-              {/* <Footer backgroundIsBlack={true} /> */}
             </MainContent>
           </BlackLayer>
         </Container>
