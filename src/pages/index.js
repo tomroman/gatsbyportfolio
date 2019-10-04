@@ -1,9 +1,9 @@
 import React from "react";
-import { Link } from "gatsby";
+// import { Link } from "gatsby";
 
 
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
+// import Navbar from "../components/Navbar";
+// import Footer from "../components/Footer";
 import styled from "styled-components";
 import img from "../images/gatsby-icon.png"
 import Layout from "../components/layout"
