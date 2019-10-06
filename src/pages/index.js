@@ -43,78 +43,78 @@ const MainContent = styled.div`
   align-items: center;
 `;
 
-const TextContainer = styled.div`
-  @media (min-width: 820px) {
-    font-size: 1.18rem;
-  }
-  @media (min-width: 1080px) {
-    font-size: 1.29rem;
-  }
-  @media (min-width: 1400px) {
-    font-size: 1.58rem;
-  }
-`;
+// const TextContainer = styled.div`
+//   @media (min-width: 820px) {
+//     font-size: 1.18rem;
+//   }
+//   @media (min-width: 1080px) {
+//     font-size: 1.29rem;
+//   }
+//   @media (min-width: 1400px) {
+//     font-size: 1.58rem;
+//   }
+// `;
 
-const Text1 = styled.h1`
-  font-family: "Montserrat", "Helvetica", sans-serif;
-  text-align: center;
-  text-transform: uppercase;
-  font-weight: 800;
-  color: #ffffff;
-  letter-spacing: 10px;
-  @media (min-width: 820px) {
-    letter-spacing: 14px;
-    /* font-size: 2.42rem; */
-  }
-  @media (min-width: 1080px) {
-    letter-spacing: 16px;
-    /* font-size: 2.58em; */
-  }
-  @media (min-width: 1400px) {
-    letter-spacing: 18px;
-    /* font-size: 2.58em; */
-  }
-`;
+// const Text1 = styled.h1`
+//   font-family: "Montserrat", "Helvetica", sans-serif;
+//   text-align: center;
+//   text-transform: uppercase;
+//   font-weight: 800;
+//   color: #ffffff;
+//   letter-spacing: 10px;
+//   @media (min-width: 820px) {
+//     letter-spacing: 14px;
+//     /* font-size: 2.42rem; */
+//   }
+//   @media (min-width: 1080px) {
+//     letter-spacing: 16px;
+//     /* font-size: 2.58em; */
+//   }
+//   @media (min-width: 1400px) {
+//     letter-spacing: 18px;
+//     /* font-size: 2.58em; */
+//   }
+// `;
 
-const Text2 = styled.h4`
-  font-family: "Montserrat", "Helvetica", sans-serif;
-  text-align: center;
-  color: #ffffff;
-  text-transform: uppercase;
-  margin: auto;
-  width: 14em;
-  padding: 12px 3px;
-  border: 4px solid #ffffff;
-  letter-spacing: 4px;
-  -webkit-transition-duration: 0.4s;
-  transition-duration: 0.4s;
-  &:hover {
-    background-color: #ffffff;
-    color: #353535;
-    opacity: 0.86;
-  }
-  @media (min-width: 820px) {
-    padding: 13px 4px;
-    letter-spacing: 5px;
-    /* font-size: 1.18rem; */
-  }
-  @media (min-width: 1080px) {
-    padding: 13px 3px;
-    letter-spacing: 6px;
-    /* font-size: 1.29rem; */
-  }
-  @media (min-width: 1400px) {
-    padding: 13.75px 4px;
-    letter-spacing: 7.5px;
-    /* font-size: 1.58rem; */
-  }
-`;
+// const Text2 = styled.h4`
+//   font-family: "Montserrat", "Helvetica", sans-serif;
+//   text-align: center;
+//   color: #ffffff;
+//   text-transform: uppercase;
+//   margin: auto;
+//   width: 14em;
+//   padding: 12px 3px;
+//   border: 4px solid #ffffff;
+//   letter-spacing: 4px;
+//   -webkit-transition-duration: 0.4s;
+//   transition-duration: 0.4s;
+//   &:hover {
+//     background-color: #ffffff;
+//     color: #353535;
+//     opacity: 0.86;
+//   }
+//   @media (min-width: 820px) {
+//     padding: 13px 4px;
+//     letter-spacing: 5px;
+//     /* font-size: 1.18rem; */
+//   }
+//   @media (min-width: 1080px) {
+//     padding: 13px 3px;
+//     letter-spacing: 6px;
+//     /* font-size: 1.29rem; */
+//   }
+//   @media (min-width: 1400px) {
+//     padding: 13.75px 4px;
+//     letter-spacing: 7.5px;
+//     /* font-size: 1.58rem; */
+//   }
+// `;
 
-const linkStyles = {
-  textDecoration: "none",
-  margin: 0,
-  outline: 0
-};
+// const linkStyles = {
+//   textDecoration: "none",
+//   margin: 0,
+//   outline: 0
+// };
 
 class Index extends React.Component {
 
