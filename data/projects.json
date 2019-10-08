@@ -5,7 +5,7 @@
         "slug": "project-1", 
         "url": "https://tomroman.github.io/Pong/", 
         "image": "./images/project1.png",
-        "description": "Pong game created in Javascript"
+        "description": "Pong game created in Javascript. User must click on screen to begin game. The game will continue until the the user or cpu allow a ball to go past them. Then the user must click again for the game to restart with updated score"
     },
 
     {
