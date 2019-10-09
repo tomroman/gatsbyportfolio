@@ -14,7 +14,7 @@ const SocialIcons = styled.div`
     align-self: flex-end;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     `;
 
 const IconLink = styled.a`
@@ -68,8 +68,8 @@ class Footer extends React.Component {
                                     : require("../images/icons/github-logo-black.svg")
                             }
                             alt="Github"
-
                         />
+
                     </IconLink>
                     <IconLink
                         style={linkStyles}
@@ -82,6 +82,7 @@ class Footer extends React.Component {
                                 this.props.backgroundIsBlack
                                     ? require("../images/icons/linkedin-logo-white.svg")
                                     : require("../images/icons/linkedin-logo-black.svg")
+                                    
                             }
                             alt="Linkedin"
                         />

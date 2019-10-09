@@ -21,7 +21,7 @@
         "slug": "project-3", 
         "url": "https://tomroman.github.io/Giphy/", 
         "image": "./images/project3.png",
-        "description": "jQuery project where users can create and click on buttons to render their favorite gifs."
+        "description": "jQuery project where users can create and click on buttons to render ten of their favorite memes."
         
     }
 

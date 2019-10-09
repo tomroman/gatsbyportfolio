@@ -1218,12 +1218,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-10-07T04:51:27.093Z",
+      "buildTime": "2019-10-09T04:42:40.901Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b413185deafedceaee39c350e6decb97",
+        "contentDigest": "c742c7b092725183cac15a58083ac6bb",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1233,7 +1233,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "40fb372d858108678a50cd6f3bfb9e7b",
+        "contentDigest": "b2f4db8b0233769c6336ba3084abc410",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1245,7 +1245,7 @@
       "size": 204,
       "prettySize": "204 B",
       "modifiedTime": "2019-05-26T05:38:08.000Z",
-      "accessTime": "2019-10-07T04:52:08.000Z",
+      "accessTime": "2019-10-09T04:43:01.000Z",
       "changeTime": "2019-05-26T05:38:08.000Z",
       "birthTime": "2019-04-08T18:35:46.000Z",
       "root": "/",
@@ -1263,11 +1263,11 @@
       "blksize": 4096,
       "ino": 5944334,
       "blocks": 0,
-      "atimeMs": 1570423928000,
+      "atimeMs": 1570596181000,
       "mtimeMs": 1558849088000,
       "ctimeMs": 1558849088000,
       "birthtimeMs": 1554748546000,
-      "atime": "2019-10-07T04:52:08.000Z",
+      "atime": "2019-10-09T04:43:01.000Z",
       "mtime": "2019-05-26T05:38:08.000Z",
       "ctime": "2019-05-26T05:38:08.000Z",
       "birthtime": "2019-04-08T18:35:46.000Z"
@@ -1277,7 +1277,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "6e2dfed2e8bb2c4249b274c1a1e012e3",
+        "contentDigest": "fde06f47e3dfae7f6f71da37a961ad44",
         "type": "Directory",
         "description": "Directory \"src/images/icons\"",
         "owner": "gatsby-source-filesystem"
@@ -1289,7 +1289,7 @@
       "size": 238,
       "prettySize": "238 B",
       "modifiedTime": "2019-05-28T04:54:39.000Z",
-      "accessTime": "2019-10-07T04:52:08.000Z",
+      "accessTime": "2019-10-09T04:43:01.000Z",
       "changeTime": "2019-05-28T04:54:39.000Z",
       "birthTime": "2019-05-26T05:34:26.000Z",
       "root": "/",
@@ -1307,11 +1307,11 @@
       "blksize": 4096,
       "ino": 6974693,
       "blocks": 0,
-      "atimeMs": 1570423928000,
+      "atimeMs": 1570596181000,
       "mtimeMs": 1559019279000,
       "ctimeMs": 1559019279000,
       "birthtimeMs": 1558848866000,
-      "atime": "2019-10-07T04:52:08.000Z",
+      "atime": "2019-10-09T04:43:01.000Z",
       "mtime": "2019-05-28T04:54:39.000Z",
       "ctime": "2019-05-28T04:54:39.000Z",
       "birthtime": "2019-05-26T05:34:26.000Z"
@@ -1525,7 +1525,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b921fa3a1c22069639c0aa6f7db2949f",
+        "contentDigest": "acf39c6ca4890b450ee64f58f189f605",
         "type": "Directory",
         "description": "Directory \"data\"",
         "owner": "gatsby-source-filesystem"
@@ -1537,7 +1537,7 @@
       "size": 170,
       "prettySize": "170 B",
       "modifiedTime": "2019-05-20T03:57:58.000Z",
-      "accessTime": "2019-10-07T04:52:08.000Z",
+      "accessTime": "2019-10-09T04:43:01.000Z",
       "changeTime": "2019-05-20T03:57:58.000Z",
       "birthTime": "2019-04-08T18:49:09.000Z",
       "root": "/",
@@ -1555,11 +1555,11 @@
       "blksize": 4096,
       "ino": 5905418,
       "blocks": 0,
-      "atimeMs": 1570423928000,
+      "atimeMs": 1570596181000,
       "mtimeMs": 1558324678000,
       "ctimeMs": 1558324678000,
       "birthtimeMs": 1554749349000,
-      "atime": "2019-10-07T04:52:08.000Z",
+      "atime": "2019-10-09T04:43:01.000Z",
       "mtime": "2019-05-20T03:57:58.000Z",
       "ctime": "2019-05-20T03:57:58.000Z",
       "birthtime": "2019-04-08T18:49:09.000Z"
@@ -1569,7 +1569,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "a662c908812558d31a6d490ebdd944e3",
+        "contentDigest": "4f05ba424a833a5d5ca6f8f3ee9775db",
         "type": "Directory",
         "description": "Directory \"data/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1581,7 +1581,7 @@
       "size": 238,
       "prettySize": "238 B",
       "modifiedTime": "2019-05-20T04:00:23.000Z",
-      "accessTime": "2019-10-07T04:52:08.000Z",
+      "accessTime": "2019-10-09T04:43:01.000Z",
       "changeTime": "2019-05-20T04:00:23.000Z",
       "birthTime": "2019-04-08T18:49:23.000Z",
       "root": "/",
@@ -1599,11 +1599,11 @@
       "blksize": 4096,
       "ino": 5905436,
       "blocks": 0,
-      "atimeMs": 1570423928000,
+      "atimeMs": 1570596181000,
       "mtimeMs": 1558324823000,
       "ctimeMs": 1558324823000,
       "birthtimeMs": 1554749363000,
-      "atime": "2019-10-07T04:52:08.000Z",
+      "atime": "2019-10-09T04:43:01.000Z",
       "mtime": "2019-05-20T04:00:23.000Z",
       "ctime": "2019-05-20T04:00:23.000Z",
       "birthtime": "2019-04-08T18:49:23.000Z"
@@ -1617,7 +1617,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "318f5a72e01b1b16a871455f59067bdd",
+        "contentDigest": "019599d6331da71698d7f968dd3cb88e",
         "type": "File",
         "mediaType": "application/json",
         "description": "File \"data/projects.json\"",
@@ -1627,11 +1627,11 @@
       "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/data/projects.json",
       "relativePath": "projects.json",
       "extension": "json",
-      "size": 992,
-      "prettySize": "992 B",
-      "modifiedTime": "2019-10-08T04:52:49.000Z",
-      "accessTime": "2019-10-08T04:52:49.000Z",
-      "changeTime": "2019-10-08T04:52:49.000Z",
+      "size": 1000,
+      "prettySize": "1 kB",
+      "modifiedTime": "2019-10-09T04:38:20.000Z",
+      "accessTime": "2019-10-09T04:38:20.000Z",
+      "changeTime": "2019-10-09T04:38:20.000Z",
       "birthTime": "2019-04-08T18:49:37.000Z",
       "root": "/",
       "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/data",
@@ -1648,13 +1648,13 @@
       "blksize": 4096,
       "ino": 5905439,
       "blocks": 8,
-      "atimeMs": 1570510369000,
-      "mtimeMs": 1570510369000,
-      "ctimeMs": 1570510369000,
+      "atimeMs": 1570595900000,
+      "mtimeMs": 1570595900000,
+      "ctimeMs": 1570595900000,
       "birthtimeMs": 1554749377000,
-      "atime": "2019-10-08T04:52:49.000Z",
-      "mtime": "2019-10-08T04:52:49.000Z",
-      "ctime": "2019-10-08T04:52:49.000Z",
+      "atime": "2019-10-09T04:38:20.000Z",
+      "mtime": "2019-10-09T04:38:20.000Z",
+      "ctime": "2019-10-09T04:38:20.000Z",
       "birthtime": "2019-04-08T18:49:37.000Z"
     },
     "7e015606-a3c9-5905-852a-d4ca703dc912": {
@@ -1975,6 +1975,51 @@
       "ctime": "2019-05-28T04:53:31.000Z",
       "birthtime": "2019-05-28T04:53:16.000Z"
     },
+    "ccd13fd8-b57a-5361-b5b4-21263b304b48": {
+      "title": "Pong",
+      "slug": "project-1",
+      "url": "https://tomroman.github.io/Pong/",
+      "image": "./images/project1.png",
+      "description": "Pong game created in Javascript. User must click on screen to begin game. The game will continue until the the user or cpu allow a ball to go past them. Then the user must click again for the game to restart with updated score",
+      "id": "ccd13fd8-b57a-5361-b5b4-21263b304b48",
+      "children": [],
+      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
+      "internal": {
+        "contentDigest": "dd58deee13ed8cf7d91447c3cc821fa8",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
+    "e9bafc7a-534c-5360-a2b6-cccb39789a73": {
+      "title": "Unearth",
+      "slug": "project-2",
+      "url": "https://unearth.business/",
+      "image": "./images/project2.png",
+      "description": "Discover Hiking Trails, Restaraunts, Hotels, and Transit Near Any Location in the United States.",
+      "id": "e9bafc7a-534c-5360-a2b6-cccb39789a73",
+      "children": [],
+      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
+      "internal": {
+        "contentDigest": "280e58a68b842ff85f03b997a8b3d4cf",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
+    "b7049a00-1ded-5373-a247-bf26272d48bd": {
+      "title": "Giphy",
+      "slug": "project-3",
+      "url": "https://tomroman.github.io/Giphy/",
+      "image": "./images/project3.png",
+      "description": "jQuery project where users can create and click on buttons to render ten of their favorite memes.",
+      "id": "b7049a00-1ded-5373-a247-bf26272d48bd",
+      "children": [],
+      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
+      "internal": {
+        "contentDigest": "9d52cbf7b01ddb54fbcfe490131fe8fe",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
     "SitePage /project-1/": {
       "jsonName": "project-1-396",
       "internalComponentName": "ComponentProject1",
@@ -2169,51 +2214,6 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
-    },
-    "ccd13fd8-b57a-5361-b5b4-21263b304b48": {
-      "title": "Pong",
-      "slug": "project-1",
-      "url": "https://tomroman.github.io/Pong/",
-      "image": "./images/project1.png",
-      "description": "Pong game created in Javascript. User must click on screen to begin game. The game will continue until the the user or cpu allow a ball to go past them. Then the user must click again for the game to restart with updated score",
-      "id": "ccd13fd8-b57a-5361-b5b4-21263b304b48",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "dd58deee13ed8cf7d91447c3cc821fa8",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
-    },
-    "e9bafc7a-534c-5360-a2b6-cccb39789a73": {
-      "title": "Unearth",
-      "slug": "project-2",
-      "url": "https://unearth.business/",
-      "image": "./images/project2.png",
-      "description": "Discover Hiking Trails, Restaraunts, Hotels, and Transit Near Any Location in the United States.",
-      "id": "e9bafc7a-534c-5360-a2b6-cccb39789a73",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "280e58a68b842ff85f03b997a8b3d4cf",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
-    },
-    "b7049a00-1ded-5373-a247-bf26272d48bd": {
-      "title": "Giphy",
-      "slug": "project-3",
-      "url": "https://tomroman.github.io/Giphy/",
-      "image": "./images/project3.png",
-      "description": "jQuery project where users can create and click on buttons to render their favorite gifs.",
-      "id": "b7049a00-1ded-5373-a247-bf26272d48bd",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "413922753f6357c0bbf2ab3688dd682e",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
     }
   },
   "status": {
@@ -2292,8 +2292,8 @@
     "project-1-396": "740/path---project-1-396-2e2-BSE7rdVkphVUlEUU2o8iXpmfnsQ",
     "project-2-11e": "667/path---project-2-11-e-3b7-8WR4QqQCy6j0Y88H8bi43z2BKQ",
     "about-f34": "708/path---about-f-34-4c2-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "projects-9e9": "9/path---projects-9-e-9-957-tJAZOCTa1sj1cw2xJL0VNnlkRao",
-    "project-3-659": "11/path---project-3-659-327-wkTOwvfiqALjZNEfOgYGZsDZl8",
+    "projects-9e9": "532/path---projects-9-e-9-957-Fq63N2ku1SQbbdTJ1sxpSc5DkA",
+    "project-3-659": "835/path---project-3-659-327-11htOin5uvjqYle8a7NrvBiVUo",
     "project-5-d16": "191/path---project-5-d-16-a23-rzppi3PCsaaEToVN8CcImhHtCwI",
     "project-4-348": "787/path---project-4-348-da0-lGYKdBWihwVwGsHdbl26MSD0YNk",
     "project-6-c7e": "590/path---project-6-c-7-e-c1b-c6vpJNfwmiYHapAzMz2qNNdraCM",
@@ -2302,8 +2302,8 @@
   },
   "components": {
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js": {
-      "query": "query usersThomasromanDesktopGatsbyportfolioSrcTemplatesProjectJs272242292(\n  $slug: String!\n) {\n  projectsJson(slug: {eq: $slug}) {\n    title\n    description\n    url\n    image {\n      childImageSharp {\n        fluid {\n          ...GatsbyImageSharpFluid\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
+      "query": "query usersThomasromanDesktopGatsbyportfolioSrcTemplatesProjectJs272242292(\n  $slug: String!\n) {\n  projectsJson(slug: {eq: $slug}) {\n    title\n    description\n    url\n    image {\n      childImageSharp {\n        fluid {\n          ...GatsbyImageSharpFluid\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "pages": [
         "/project-1/",
         "/project-2/",
