@@ -1617,7 +1617,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "019599d6331da71698d7f968dd3cb88e",
+        "contentDigest": "2c565299d3bcce7971aebf969af4f13f",
         "type": "File",
         "mediaType": "application/json",
         "description": "File \"data/projects.json\"",
@@ -1627,11 +1627,11 @@
       "absolutePath": "/Users/thomasroman/Desktop/gatsbyportfolio/data/projects.json",
       "relativePath": "projects.json",
       "extension": "json",
-      "size": 1000,
+      "size": 1002,
       "prettySize": "1 kB",
-      "modifiedTime": "2019-10-09T04:38:20.000Z",
-      "accessTime": "2019-10-09T04:38:20.000Z",
-      "changeTime": "2019-10-09T04:38:20.000Z",
+      "modifiedTime": "2019-10-10T04:57:31.000Z",
+      "accessTime": "2019-10-10T04:57:31.000Z",
+      "changeTime": "2019-10-10T04:57:31.000Z",
       "birthTime": "2019-04-08T18:49:37.000Z",
       "root": "/",
       "dir": "/Users/thomasroman/Desktop/gatsbyportfolio/data",
@@ -1648,13 +1648,13 @@
       "blksize": 4096,
       "ino": 5905439,
       "blocks": 8,
-      "atimeMs": 1570595900000,
-      "mtimeMs": 1570595900000,
-      "ctimeMs": 1570595900000,
+      "atimeMs": 1570683451000,
+      "mtimeMs": 1570683451000,
+      "ctimeMs": 1570683451000,
       "birthtimeMs": 1554749377000,
-      "atime": "2019-10-09T04:38:20.000Z",
-      "mtime": "2019-10-09T04:38:20.000Z",
-      "ctime": "2019-10-09T04:38:20.000Z",
+      "atime": "2019-10-10T04:57:31.000Z",
+      "mtime": "2019-10-10T04:57:31.000Z",
+      "ctime": "2019-10-10T04:57:31.000Z",
       "birthtime": "2019-04-08T18:49:37.000Z"
     },
     "7e015606-a3c9-5905-852a-d4ca703dc912": {
@@ -1975,51 +1975,6 @@
       "ctime": "2019-05-28T04:53:31.000Z",
       "birthtime": "2019-05-28T04:53:16.000Z"
     },
-    "ccd13fd8-b57a-5361-b5b4-21263b304b48": {
-      "title": "Pong",
-      "slug": "project-1",
-      "url": "https://tomroman.github.io/Pong/",
-      "image": "./images/project1.png",
-      "description": "Pong game created in Javascript. User must click on screen to begin game. The game will continue until the the user or cpu allow a ball to go past them. Then the user must click again for the game to restart with updated score",
-      "id": "ccd13fd8-b57a-5361-b5b4-21263b304b48",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "dd58deee13ed8cf7d91447c3cc821fa8",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
-    },
-    "e9bafc7a-534c-5360-a2b6-cccb39789a73": {
-      "title": "Unearth",
-      "slug": "project-2",
-      "url": "https://unearth.business/",
-      "image": "./images/project2.png",
-      "description": "Discover Hiking Trails, Restaraunts, Hotels, and Transit Near Any Location in the United States.",
-      "id": "e9bafc7a-534c-5360-a2b6-cccb39789a73",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "280e58a68b842ff85f03b997a8b3d4cf",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
-    },
-    "b7049a00-1ded-5373-a247-bf26272d48bd": {
-      "title": "Giphy",
-      "slug": "project-3",
-      "url": "https://tomroman.github.io/Giphy/",
-      "image": "./images/project3.png",
-      "description": "jQuery project where users can create and click on buttons to render ten of their favorite memes.",
-      "id": "b7049a00-1ded-5373-a247-bf26272d48bd",
-      "children": [],
-      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
-      "internal": {
-        "contentDigest": "9d52cbf7b01ddb54fbcfe490131fe8fe",
-        "type": "ProjectsJson",
-        "owner": "gatsby-transformer-json"
-      }
-    },
     "SitePage /project-1/": {
       "jsonName": "project-1-396",
       "internalComponentName": "ComponentProject1",
@@ -2214,6 +2169,51 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "ccd13fd8-b57a-5361-b5b4-21263b304b48": {
+      "title": "Pong",
+      "slug": "project-1",
+      "url": "https://tomroman.github.io/Pong/",
+      "image": "./images/project1.png",
+      "description": "Pong game created in Javascript. User must click on screen to begin game. The game will continue until the the user or cpu allow a ball to go past them. Then the user must click again game to restart the game with updated score.",
+      "id": "ccd13fd8-b57a-5361-b5b4-21263b304b48",
+      "children": [],
+      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
+      "internal": {
+        "contentDigest": "d3509784e448cc417d544f340e8d9d1c",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
+    "e9bafc7a-534c-5360-a2b6-cccb39789a73": {
+      "title": "Unearth",
+      "slug": "project-2",
+      "url": "https://unearth.business/",
+      "image": "./images/project2.png",
+      "description": "Discover Hiking Trails, Restaraunts, Hotels, and Transit Near Any Location in the United States.",
+      "id": "e9bafc7a-534c-5360-a2b6-cccb39789a73",
+      "children": [],
+      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
+      "internal": {
+        "contentDigest": "280e58a68b842ff85f03b997a8b3d4cf",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
+    },
+    "b7049a00-1ded-5373-a247-bf26272d48bd": {
+      "title": "Giphy",
+      "slug": "project-3",
+      "url": "https://tomroman.github.io/Giphy/",
+      "image": "./images/project3.png",
+      "description": "jQuery project where users can create and click on buttons to render ten of their favorite memes.",
+      "id": "b7049a00-1ded-5373-a247-bf26272d48bd",
+      "children": [],
+      "parent": "c48e5b69-f2f3-5bcf-9eea-a4c35ed08b6e",
+      "internal": {
+        "contentDigest": "9d52cbf7b01ddb54fbcfe490131fe8fe",
+        "type": "ProjectsJson",
+        "owner": "gatsby-transformer-json"
+      }
     }
   },
   "status": {
@@ -2289,10 +2289,10 @@
     "sq--src-pages-index-js": 1381110386,
     "sq--src-components-image-js": 2011440971,
     "index": "140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "project-1-396": "740/path---project-1-396-2e2-BSE7rdVkphVUlEUU2o8iXpmfnsQ",
+    "project-1-396": "985/path---project-1-396-2e2-tq7QAZ2vlvpQXK9Fy197gQXdH90",
     "project-2-11e": "667/path---project-2-11-e-3b7-8WR4QqQCy6j0Y88H8bi43z2BKQ",
     "about-f34": "708/path---about-f-34-4c2-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "projects-9e9": "532/path---projects-9-e-9-957-Fq63N2ku1SQbbdTJ1sxpSc5DkA",
+    "projects-9e9": "958/path---projects-9-e-9-957-v4jFz38mbvB2gLFWLHb29n4XmKE",
     "project-3-659": "835/path---project-3-659-327-11htOin5uvjqYle8a7NrvBiVUo",
     "project-5-d16": "191/path---project-5-d-16-a23-rzppi3PCsaaEToVN8CcImhHtCwI",
     "project-4-348": "787/path---project-4-348-da0-lGYKdBWihwVwGsHdbl26MSD0YNk",
@@ -2302,8 +2302,8 @@
   },
   "components": {
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js": {
-      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
       "query": "query usersThomasromanDesktopGatsbyportfolioSrcTemplatesProjectJs272242292(\n  $slug: String!\n) {\n  projectsJson(slug: {eq: $slug}) {\n    title\n    description\n    url\n    image {\n      childImageSharp {\n        fluid {\n          ...GatsbyImageSharpFluid\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/templates/project.js",
       "pages": [
         "/project-1/",
         "/project-2/",
