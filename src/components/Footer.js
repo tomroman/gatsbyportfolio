@@ -14,7 +14,7 @@ const SocialIcons = styled.div`
     align-self: flex-end;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: center ;
     `;
 
 const IconLink = styled.a`
