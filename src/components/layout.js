@@ -29,7 +29,7 @@ const Layout = ({ children }) => (
     `}
     render={data => (
       <>
-        {/* <Header siteTitle={data.site.siteMetadata.title} /> */}
+        <Header siteTitle={data.site.siteMetadata.title} />
         <Menu /> 
         
         <div
