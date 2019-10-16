@@ -24,7 +24,7 @@ class ErrorPage extends React.Component {
     return (
       <Container>
         <h1>Big oops. Much sorry.</h1>
-        <p>You've hit a route that doesn't exist.</p>
+        <p>This page doesn't exist.</p>
         <p>Go back to the home page here!</p>
         <Link to="/">
           <button>To Home Page</button>

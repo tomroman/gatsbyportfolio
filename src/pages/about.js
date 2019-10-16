@@ -7,7 +7,7 @@ const AboutPage = () => (
   <Layout>
     <SEO title="About" />
     <h1>About</h1>
-    <p>My name is Thomas and I am front end developer. I recently graduated from the Northwestern University Coding Bootcamp, as a FullStack Developer. 
+    <p>My name is Thomas and I am MERN stack developer. I recently graduated from the Northwestern University Coding Bootcamp, as a FullStack Developer. 
 
     </p>
   </Layout>
