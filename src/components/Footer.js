@@ -29,8 +29,8 @@ const Icon = styled.img`
     height: 30 px;
     width: auto;
     transition: 0.23s;
-    &:hover {
-        transform: template(0px, -6px);
+    &:hover  {
+        transform: translate(0px, -6px);
     }
     `;
 
