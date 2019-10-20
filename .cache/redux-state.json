@@ -2288,7 +2288,7 @@
         "/project-2/",
         "/project-3/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/.cache/dev-404-page.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/.cache/dev-404-page.js",
@@ -2296,7 +2296,7 @@
       "pages": [
         "/dev-404-page/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/404.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/404.js",
@@ -2305,7 +2305,7 @@
         "/404/",
         "/404.html"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/about.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/about.js",
@@ -2313,7 +2313,7 @@
       "pages": [
         "/about/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/index.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/index.js",
@@ -2321,7 +2321,7 @@
       "pages": [
         "/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/projects.js": {
       "componentPath": "/Users/thomasroman/Desktop/gatsbyportfolio/src/pages/projects.js",
@@ -2329,7 +2329,7 @@
       "pages": [
         "/projects/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     }
   },
   "staticQueryComponents": {
