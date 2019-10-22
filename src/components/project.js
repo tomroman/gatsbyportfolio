@@ -22,6 +22,6 @@ const Project = ({title, description, url, imageData}) => (
     </div>
 )
 
-console.log()
+
 
 export default Project; 

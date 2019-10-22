@@ -31,6 +31,9 @@ const Icon = styled.img`
     transition: 0.23s;
     &:hover  {
         transform: translate(0px, -6px);
+    };
+    &:hover {
+        transform: transport(0px, -6px)
     }
     `;
 
@@ -42,6 +45,7 @@ const Copyright = styled.h5`
     letter-spacing: 2px;
     margin: 14px auto;
     `;
+
 const linkStyles = {
     height: "33px",
     width: "33px",
