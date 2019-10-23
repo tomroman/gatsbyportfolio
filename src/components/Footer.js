@@ -28,13 +28,11 @@ const IconLink = styled.a`
 const Icon = styled.img`
     height: 30 px;
     width: auto;
-    transition: 0.23s;
+    transition: transform 0.23s ease-in-out;
     &:hover  {
         transform: translate(0px, -6px);
     };
-    &:hover {
-        transform: transport(0px, -6px)
-    }
+ 
     `;
 
 const Copyright = styled.h5`
