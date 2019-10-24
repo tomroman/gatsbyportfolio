@@ -82,7 +82,7 @@ class Footer extends React.Component {
                             style={linkStyles}
                             src={
                                 this.props.backgroundIsBlack
-                                    ? require("../images/icons/linkedin-logo-white.svg")
+                                    // ? require("../images/icons/linkedin-logo-white.svg")
                                     : require("../images/icons/linkedin-logo-black.svg")
                                     
                             }
