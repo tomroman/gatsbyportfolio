@@ -31,7 +31,10 @@ const Icon = styled.img`
     transition: transform 0.23s ease-in-out;
     &:hover  {
         transform: translate(0px, -6px);
+        transition: 0.3s ease-out;
     };
+
+   
  
     `;
 
@@ -82,12 +85,14 @@ class Footer extends React.Component {
                             style={linkStyles}
                             src={
                                 this.props.backgroundIsBlack
-                                    // ? require("../images/icons/linkedin-logo-white.svg")
+                                    ? require("../images/icons/linkedin-logo-white.svg")
                                     : require("../images/icons/linkedin-logo-black.svg")
                                     
                             }
+                            
                             alt="Linkedin"
                         />
+                        
                     </IconLink>
 
                 </SocialIcons>
