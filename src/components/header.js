@@ -47,7 +47,7 @@ import React from 'react'
 
 import Footer from './Footer'
 import avatar from '../assets/images/avatar.jpg'
-import Menu from '../components/menu'
+import Menu from './menu'
 
 class Header extends React.Component {
     render() {
