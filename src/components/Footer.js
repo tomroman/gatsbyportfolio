@@ -31,7 +31,7 @@ const Icon = styled.img`
     transition: transform 0.23s ease-in-out;
     &:hover  {
         transform: translate(0px, -6px);
-        transition: 0.3s ease-out;
+        
     };
 
    
